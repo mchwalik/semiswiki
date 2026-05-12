@@ -1,0 +1,24 @@
+.page article {
+  line-height: 1.75;
+}
+
+.page article blockquote {
+  border-left-width: 3px;
+}
+
+.page article .internal {
+  font-weight: 600;
+}
+
+.page article ul li {
+  margin-bottom: 0.25rem;
+}
+
+.explorer-content .folder-title,
+.explorer-content .leaf > a {
+  font-size: 0.95rem;
+}
+
+article[data-slug="index"] .popover-hint {
+  font-size: 1.03rem;
+}
