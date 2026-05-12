@@ -22,3 +22,4 @@ This section revisits Jumia as a high-risk, high-optionalitiy African e-commerce
 ## Related pages
 - [[26-trades-for-2026]]
 - [[the-girlfriend-index]]
+- [[jumia-company]]

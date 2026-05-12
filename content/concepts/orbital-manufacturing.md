@@ -2,7 +2,7 @@
 title: Orbital Manufacturing
 created: 2026-05-12
 updated: 2026-05-12
-type: summary
+type: concept
 tags: [public-equities, thesis]
 sources: [raw/articles/26-trades-for-2026-pdf-extract.md]
 confidence: medium

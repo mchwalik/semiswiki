@@ -19,3 +19,4 @@ This trade separates the Bitcoin asset from the corporate-finance wrapper built 
 ## Related pages
 - [[26-trades-for-2026]]
 - [[agentic-utilities]]
+- [[microstrategy-company]]

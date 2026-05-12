@@ -2,7 +2,7 @@
 title: Earned Wage Access
 created: 2026-05-12
 updated: 2026-05-12
-type: summary
+type: concept
 tags: [payments, public-equities, thesis]
 sources: [raw/articles/26-trades-for-2026-pdf-extract.md]
 confidence: medium
@@ -19,3 +19,4 @@ This section argues that household cash-flow stress creates fertile ground for e
 ## Related pages
 - [[bread-and-circuses]]
 - [[26-trades-for-2026]]
+- [[dave-inc]]

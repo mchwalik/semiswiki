@@ -2,7 +2,7 @@
 title: Shipbuilding
 created: 2026-05-12
 updated: 2026-05-12
-type: summary
+type: concept
 tags: [public-equities, thesis]
 sources: [raw/articles/26-trades-for-2026-pdf-extract.md]
 confidence: medium
@@ -19,3 +19,4 @@ This theme argues that naval and maritime industrial capacity is becoming strate
 ## Related pages
 - [[26-trades-for-2026]]
 - [[geopolitical-special-situations]]
+- [[thyssenkrupp-marine-systems]]

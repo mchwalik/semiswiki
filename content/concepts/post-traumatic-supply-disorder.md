@@ -2,7 +2,7 @@
 title: Post-Traumatic Supply Disorder
 created: 2026-05-12
 updated: 2026-05-12
-type: summary
+type: concept
 tags: [public-equities, supply-chain, thesis]
 sources: [raw/articles/26-trades-for-2026-pdf-extract.md]
 confidence: medium
@@ -26,3 +26,7 @@ This framework looks for industries still psychologically and financially scarre
 ## Related pages
 - [[26-trades-for-2026]]
 - [[ai-materials]]
+- [[bhp-group]]
+- [[freeport-mcmoran]]
+- [[southern-copper]]
+- [[antofagasta]]

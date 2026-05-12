@@ -2,7 +2,7 @@
 title: Insurance Marketing
 created: 2026-05-12
 updated: 2026-05-12
-type: summary
+type: concept
 tags: [public-equities, thesis]
 sources: [raw/articles/26-trades-for-2026-pdf-extract.md]
 confidence: medium
@@ -24,3 +24,7 @@ This thesis argues that excess profitability in auto insurance will eventually r
 - [[nerdwallet]]
 - [[nerdwallet-company]]
 - [[26-trades-for-2026]]
+- [[lendingtree]]
+- [[mediaalpha]]
+- [[quinstreet]]
+- [[everquote]]

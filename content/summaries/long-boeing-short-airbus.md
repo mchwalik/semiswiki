@@ -19,3 +19,5 @@ This pair trade argues that Boeing’s operational base is so depressed that eve
 ## Related pages
 - [[shipbuilding]]
 - [[26-trades-for-2026]]
+- [[boeing-company]]
+- [[airbus-company]]

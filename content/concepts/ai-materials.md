@@ -22,3 +22,9 @@ This theme argues that AI demand should increasingly accrue to upstream material
 - Overlaps with [[photonics-cpo-supply-chain]], which explicitly pushes the optics thesis upstream into substrates, lasers, and equipment.
 - Supports [[ai-power-supply-chain-inheritance]], where AI absorbs capacity and know-how first built for EV and solar supply chains.
 - Provides a bridge between high-level platform demand from [[nvidia]] and the less-visible enabling layers of the stack.
+
+## Related pages
+- [[broadcom]]
+- [[advanced-micro-devices]]
+- [[freeport-mcmoran]]
+- [[southern-copper]]

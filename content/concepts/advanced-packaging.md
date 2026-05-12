@@ -22,3 +22,7 @@ This thesis treats advanced packaging as a durable AI bottleneck rather than a c
 - Connects directly to [[photonics-cpo-supply-chain]], where hybrid bonding, silicon photonics integration, and CPO all depend on advanced packaging workflows.
 - Reinforces [[ai-power-supply-chain-inheritance]] because denser compute and higher rack power increase the value of better package-level efficiency.
 - Ties back to [[nvidia]] as the main system roadmap forcing the packaging stack to evolve.
+
+## Related pages
+- [[applied-materials]]
+- [[amkor]]

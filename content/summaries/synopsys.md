@@ -20,3 +20,5 @@ This single-name idea treats Synopsys as a fortress EDA and semiconductor-design
 - [[synopsys-company]]
 - [[advanced-packaging]]
 - [[26-trades-for-2026]]
+- [[cadence]]
+- [[ansys]]

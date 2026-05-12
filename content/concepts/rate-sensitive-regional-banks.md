@@ -2,7 +2,7 @@
 title: Rate Sensitive Regional Banks
 created: 2026-05-12
 updated: 2026-05-12
-type: summary
+type: concept
 tags: [public-equities, thesis]
 sources: [raw/articles/26-trades-for-2026-pdf-extract.md]
 confidence: medium
@@ -24,3 +24,4 @@ This trade looks for small-cap financials with disproportionate upside to rate c
 ## Related pages
 - [[dovish-fed-hawkish-ecb]]
 - [[26-trades-for-2026]]
+- [[oppenheimer-holdings]]
