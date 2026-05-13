@@ -23,6 +23,13 @@ MediaTek (2454 TT) appears in the report as a concrete company expression of inf
 - Its relevance is thematic rather than encyclopedic: the important point is how the name fits the basket, bottleneck, or catalyst.
 - Risk is that the macro, policy, or execution driver behind the theme fails to materialize on the timeline the thesis assumes.
 
+## Market snapshot
+- Ticker w raporcie: `2454 TT`
+- Yahoo symbol: `2454.TW`
+- Dzisiejsza zmiana: `-5.54%` (`-205.00`)
+- Ostatnia cena: `3495.00 TWD`
+- Data snapshotu: `2026-05-13`
+
 ## Related pages
 - [[inference-on-device]]
 - [[26-trades-for-2026]]

@@ -23,6 +23,13 @@ Kering (KER FP) appears in the report as a concrete company expression of the gi
 - Its relevance is thematic rather than encyclopedic: the important point is how the name fits the basket, bottleneck, or catalyst.
 - Risk is that the macro, policy, or execution driver behind the theme fails to materialize on the timeline the thesis assumes.
 
+## Market snapshot
+- Ticker w raporcie: `KER FP`
+- Yahoo symbol: `KER.PA`
+- Dzisiejsza zmiana: `+0.04%` (`+0.10`)
+- Ostatnia cena: `239.20 EUR`
+- Data snapshotu: `2026-05-13`
+
 ## Related pages
 - [[the-girlfriend-index]]
 - [[26-trades-for-2026]]

@@ -23,6 +23,13 @@ C&D Property Management (2156 HK) appears in the report as a concrete company ex
 - Its relevance is thematic rather than encyclopedic: the important point is how the name fits the basket, bottleneck, or catalyst.
 - Risk is that the macro, policy, or execution driver behind the theme fails to materialize on the timeline the thesis assumes.
 
+## Market snapshot
+- Ticker w raporcie: `2156 HK`
+- Yahoo symbol: `2156.HK`
+- Dzisiejsza zmiana: `+0.98%` (`+0.03`)
+- Ostatnia cena: `3.10 HKD`
+- Data snapshotu: `2026-05-13`
+
 ## Related pages
 - [[china-trades]]
 - [[26-trades-for-2026]]

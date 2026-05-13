@@ -23,6 +23,13 @@ LVMH (MC FP) appears in the report as a concrete company expression of the girlf
 - Its relevance is thematic rather than encyclopedic: the important point is how the name fits the basket, bottleneck, or catalyst.
 - Risk is that the macro, policy, or execution driver behind the theme fails to materialize on the timeline the thesis assumes.
 
+## Market snapshot
+- Ticker w raporcie: `MC FP`
+- Yahoo symbol: `MC.PA`
+- Dzisiejsza zmiana: `-0.11%` (`-0.50`)
+- Ostatnia cena: `452.55 EUR`
+- Data snapshotu: `2026-05-13`
+
 ## Related pages
 - [[the-girlfriend-index]]
 - [[26-trades-for-2026]]

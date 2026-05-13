@@ -23,6 +23,13 @@ Asahi Kasei (3407 JP) appears in the report as a concrete company expression of 
 - Its relevance is thematic rather than encyclopedic: the important point is how the name fits the basket, bottleneck, or catalyst.
 - Risk is that the macro, policy, or execution driver behind the theme fails to materialize on the timeline the thesis assumes.
 
+## Market snapshot
+- Ticker w raporcie: `3407 JP`
+- Yahoo symbol: `3407.T`
+- Dzisiejsza zmiana: `+5.77%` (`+95.50`)
+- Ostatnia cena: `1750.00 JPY`
+- Data snapshotu: `2026-05-13`
+
 ## Related pages
 - [[ai-materials]]
 - [[26-trades-for-2026]]

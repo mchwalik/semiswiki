@@ -23,6 +23,13 @@ Ipsos (IPS FP) appears in the report as a concrete company expression of midterm
 - Its relevance is thematic rather than encyclopedic: the important point is how the name fits the basket, bottleneck, or catalyst.
 - Risk is that the macro, policy, or execution driver behind the theme fails to materialize on the timeline the thesis assumes.
 
+## Market snapshot
+- Ticker w raporcie: `IPS FP`
+- Yahoo symbol: `IPS.PA`
+- Dzisiejsza zmiana: `-0.17%` (`-0.06`)
+- Ostatnia cena: `36.00 EUR`
+- Data snapshotu: `2026-05-13`
+
 ## Related pages
 - [[midterm-media-spend]]
 - [[26-trades-for-2026]]

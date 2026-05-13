@@ -23,6 +23,13 @@ CH Robinson (CHRW US) appears in the report as a concrete company expression of 
 - Its relevance is thematic rather than encyclopedic: the important point is how the name fits the basket, bottleneck, or catalyst.
 - Risk is that the macro, policy, or execution driver behind the theme fails to materialize on the timeline the thesis assumes.
 
+## Market snapshot
+- Ticker w raporcie: `CHRW US`
+- Yahoo symbol: `CHRW`
+- Dzisiejsza zmiana: `-1.86%` (`-3.12`)
+- Ostatnia cena: `164.09 USD`
+- Data snapshotu: `2026-05-13`
+
 ## Related pages
 - [[bullshit-jobs]]
 - [[26-trades-for-2026]]

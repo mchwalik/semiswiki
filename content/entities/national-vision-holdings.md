@@ -23,6 +23,13 @@ National Vision Holdings (EYE US) appears in the report as a concrete company ex
 - Its relevance is thematic rather than encyclopedic: the important point is how the name fits the basket, bottleneck, or catalyst.
 - Risk is that the macro, policy, or execution driver behind the theme fails to materialize on the timeline the thesis assumes.
 
+## Market snapshot
+- Ticker w raporcie: `EYE US`
+- Yahoo symbol: `EYE`
+- Dzisiejsza zmiana: `-23.11%` (`-4.84`)
+- Ostatnia cena: `16.10 USD`
+- Data snapshotu: `2026-05-13`
+
 ## Related pages
 - [[bread-and-circuses]]
 - [[26-trades-for-2026]]

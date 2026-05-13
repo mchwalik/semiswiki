@@ -23,6 +23,13 @@ Taiyo HD (4626 JP) appears in the report as a concrete company expression of ai 
 - Its relevance is thematic rather than encyclopedic: the important point is how the name fits the basket, bottleneck, or catalyst.
 - Risk is that the macro, policy, or execution driver behind the theme fails to materialize on the timeline the thesis assumes.
 
+## Market snapshot
+- Ticker w raporcie: `4626 JP`
+- Yahoo symbol: `4626.T`
+- Dzisiejsza zmiana: `-3.07%` (`-151.00`)
+- Ostatnia cena: `4773.00 JPY`
+- Data snapshotu: `2026-05-13`
+
 ## Related pages
 - [[ai-materials]]
 - [[26-trades-for-2026]]

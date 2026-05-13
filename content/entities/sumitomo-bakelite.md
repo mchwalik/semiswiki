@@ -23,6 +23,13 @@ Sumitomo Bakelite (4203 JP) appears in the report as a concrete company expressi
 - Its relevance is thematic rather than encyclopedic: the important point is how the name fits the basket, bottleneck, or catalyst.
 - Risk is that the macro, policy, or execution driver behind the theme fails to materialize on the timeline the thesis assumes.
 
+## Market snapshot
+- Ticker w raporcie: `4203 JP`
+- Yahoo symbol: `4203.T`
+- Dzisiejsza zmiana: `-0.49%` (`-33.00`)
+- Ostatnia cena: `6658.00 JPY`
+- Data snapshotu: `2026-05-13`
+
 ## Related pages
 - [[ai-materials]]
 - [[26-trades-for-2026]]

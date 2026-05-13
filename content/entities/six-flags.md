@@ -23,6 +23,13 @@ Six Flags (FUN US) appears in the report as a concrete company expression of bre
 - Its relevance is thematic rather than encyclopedic: the important point is how the name fits the basket, bottleneck, or catalyst.
 - Risk is that the macro, policy, or execution driver behind the theme fails to materialize on the timeline the thesis assumes.
 
+## Market snapshot
+- Ticker w raporcie: `FUN US`
+- Yahoo symbol: `FUN`
+- Dzisiejsza zmiana: `+3.97%` (`+0.75`)
+- Ostatnia cena: `19.65 USD`
+- Data snapshotu: `2026-05-13`
+
 ## Related pages
 - [[bread-and-circuses]]
 - [[26-trades-for-2026]]

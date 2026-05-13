@@ -23,6 +23,13 @@ SQM (SQM US) appears in the report as a concrete company expression of post-trau
 - Its relevance is thematic rather than encyclopedic: the important point is how the name fits the basket, bottleneck, or catalyst.
 - Risk is that the macro, policy, or execution driver behind the theme fails to materialize on the timeline the thesis assumes.
 
+## Market snapshot
+- Ticker w raporcie: `SQM US`
+- Yahoo symbol: `SQM`
+- Dzisiejsza zmiana: `-3.32%` (`-3.14`)
+- Ostatnia cena: `91.49 USD`
+- Data snapshotu: `2026-05-13`
+
 ## Related pages
 - [[post-traumatic-supply-disorder]]
 - [[26-trades-for-2026]]

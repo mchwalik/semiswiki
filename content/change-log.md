@@ -505,3 +505,11 @@ publish: true
 - Notes:
   - Added the remaining report- and graphics-derived entities that were still missing from the 26 Trades for 2026 entity layer.
   - Each new entity page now points back to its owning concept or summary and to [[26-trades-for-2026]].
+
+## [2026-05-13] enrich | Added daily stock-move snapshots to entity pages
+- Wiki pages updated:
+  - 86 entity pages with explicit report tickers received a `## Market snapshot` section
+  - log.md
+- Notes:
+  - Resolved live Yahoo Finance quotes for 85 entities and recorded same-day move, absolute change, last price, and Yahoo symbol.
+  - Left an unavailable-quote note for 1 entity page where a current Yahoo Finance quote could not be verified: zeekr.md.

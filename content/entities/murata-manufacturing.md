@@ -23,6 +23,13 @@ Murata Manufacturing (6981 JP) appears in the report as a concrete company expre
 - Its relevance is thematic rather than encyclopedic: the important point is how the name fits the basket, bottleneck, or catalyst.
 - Risk is that the macro, policy, or execution driver behind the theme fails to materialize on the timeline the thesis assumes.
 
+## Market snapshot
+- Ticker w raporcie: `6981 JP`
+- Yahoo symbol: `6981.T`
+- Dzisiejsza zmiana: `+0.18%` (`+11.00`)
+- Ostatnia cena: `6089.00 JPY`
+- Data snapshotu: `2026-05-13`
+
 ## Related pages
 - [[inference-on-device]]
 - [[26-trades-for-2026]]

@@ -23,6 +23,13 @@ Yeti (YETI US) appears in the report as a concrete company expression of bread a
 - Its relevance is thematic rather than encyclopedic: the important point is how the name fits the basket, bottleneck, or catalyst.
 - Risk is that the macro, policy, or execution driver behind the theme fails to materialize on the timeline the thesis assumes.
 
+## Market snapshot
+- Ticker w raporcie: `YETI US`
+- Yahoo symbol: `YETI`
+- Dzisiejsza zmiana: `-1.46%` (`-0.58`)
+- Ostatnia cena: `39.12 USD`
+- Data snapshotu: `2026-05-13`
+
 ## Related pages
 - [[bread-and-circuses]]
 - [[26-trades-for-2026]]

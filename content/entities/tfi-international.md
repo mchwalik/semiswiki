@@ -23,6 +23,13 @@ TFI International (TFII US) appears in the report as a concrete company expressi
 - Its relevance is thematic rather than encyclopedic: the important point is how the name fits the basket, bottleneck, or catalyst.
 - Risk is that the macro, policy, or execution driver behind the theme fails to materialize on the timeline the thesis assumes.
 
+## Market snapshot
+- Ticker w raporcie: `TFII US`
+- Yahoo symbol: `TFII`
+- Dzisiejsza zmiana: `+0.04%` (`+0.06`)
+- Ostatnia cena: `135.22 USD`
+- Data snapshotu: `2026-05-13`
+
 ## Related pages
 - [[post-traumatic-supply-disorder]]
 - [[26-trades-for-2026]]

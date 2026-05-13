@@ -23,6 +23,13 @@ UnitedHealth (UNH US) appears in the report as a concrete company expression of 
 - Its relevance is thematic rather than encyclopedic: the important point is how the name fits the basket, bottleneck, or catalyst.
 - Risk is that the macro, policy, or execution driver behind the theme fails to materialize on the timeline the thesis assumes.
 
+## Market snapshot
+- Ticker w raporcie: `UNH US`
+- Yahoo symbol: `UNH`
+- Dzisiejsza zmiana: `+0.79%` (`+3.15`)
+- Ostatnia cena: `399.54 USD`
+- Data snapshotu: `2026-05-13`
+
 ## Related pages
 - [[conditional-on-gop-losing]]
 - [[26-trades-for-2026]]

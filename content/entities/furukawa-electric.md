@@ -23,6 +23,13 @@ Furukawa Electric (5801 JP) appears in the report as a concrete company expressi
 - Its relevance is thematic rather than encyclopedic: the important point is how the name fits the basket, bottleneck, or catalyst.
 - Risk is that the macro, policy, or execution driver behind the theme fails to materialize on the timeline the thesis assumes.
 
+## Market snapshot
+- Ticker w raporcie: `5801 JP`
+- Yahoo symbol: `5801.T`
+- Dzisiejsza zmiana: `+15.27%` (`+7700.00`)
+- Ostatnia cena: `58130.00 JPY`
+- Data snapshotu: `2026-05-13`
+
 ## Related pages
 - [[ai-materials]]
 - [[26-trades-for-2026]]

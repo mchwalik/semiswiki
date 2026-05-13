@@ -23,6 +23,13 @@ Ganfeng Lithium (1772 HK) appears in the report as a concrete company expression
 - Its relevance is thematic rather than encyclopedic: the important point is how the name fits the basket, bottleneck, or catalyst.
 - Risk is that the macro, policy, or execution driver behind the theme fails to materialize on the timeline the thesis assumes.
 
+## Market snapshot
+- Ticker w raporcie: `1772 HK`
+- Yahoo symbol: `1772.HK`
+- Dzisiejsza zmiana: `-3.96%` (`-3.30`)
+- Ostatnia cena: `80.00 HKD`
+- Data snapshotu: `2026-05-13`
+
 ## Related pages
 - [[post-traumatic-supply-disorder]]
 - [[26-trades-for-2026]]

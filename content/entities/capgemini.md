@@ -23,6 +23,13 @@ Capgemini (CAP FP) appears in the report as a concrete company expression of bul
 - Its relevance is thematic rather than encyclopedic: the important point is how the name fits the basket, bottleneck, or catalyst.
 - Risk is that the macro, policy, or execution driver behind the theme fails to materialize on the timeline the thesis assumes.
 
+## Market snapshot
+- Ticker w raporcie: `CAP FP`
+- Yahoo symbol: `CAP.PA`
+- Dzisiejsza zmiana: `-2.56%` (`-2.54`)
+- Ostatnia cena: `96.66 EUR`
+- Data snapshotu: `2026-05-13`
+
 ## Related pages
 - [[bullshit-jobs]]
 - [[26-trades-for-2026]]

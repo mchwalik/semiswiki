@@ -23,6 +23,13 @@ RWE (RWE GR) appears in the report as a concrete company expression of long euro
 - Its relevance is thematic rather than encyclopedic: the important point is how the name fits the basket, bottleneck, or catalyst.
 - Risk is that the macro, policy, or execution driver behind the theme fails to materialize on the timeline the thesis assumes.
 
+## Market snapshot
+- Ticker w raporcie: `RWE GR`
+- Yahoo symbol: `RWE.DE`
+- Dzisiejsza zmiana: `-2.23%` (`-1.30`)
+- Ostatnia cena: `56.92 EUR`
+- Data snapshotu: `2026-05-13`
+
 ## Related pages
 - [[long-european-utilities]]
 - [[26-trades-for-2026]]

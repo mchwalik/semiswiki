@@ -23,6 +23,13 @@ Fortum (FORTUM FH) appears in the report as a concrete company expression of lon
 - Its relevance is thematic rather than encyclopedic: the important point is how the name fits the basket, bottleneck, or catalyst.
 - Risk is that the macro, policy, or execution driver behind the theme fails to materialize on the timeline the thesis assumes.
 
+## Market snapshot
+- Ticker w raporcie: `FORTUM FH`
+- Yahoo symbol: `FORTUM.HE`
+- Dzisiejsza zmiana: `+0.15%` (`+0.03`)
+- Ostatnia cena: `20.24 EUR`
+- Data snapshotu: `2026-05-13`
+
 ## Related pages
 - [[long-european-utilities]]
 - [[26-trades-for-2026]]
