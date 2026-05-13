@@ -5,196 +5,290 @@ publish: true
 
 # Catalog
 
-> Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-05-13 | Total pages: 185
+Last updated: 2026-05-13
+Total pages: 281
 
 ## Entities
-- [[academy-sports-outdoors]] — Academy Sports is presented as a regionally advantaged sporting-goods retailer that could benefit from the World Cup through its strong footprint in the Amer...
-- [[acm-research-company]] — ACM Research is presented as a semiconductor-equipment company leveraged to China’s domestic wafer-fab and process-tool buildout, especially where local subs...
-- [[adidas]] — Adidas appears as a straightforward global soccer-equipment and apparel beneficiary of the World Cup, positioned to capture both immediate tournament spendin...
-- [[advanced-micro-devices]] — AMD matters in the wiki as a reminder that the AI materials and substrate thesis does not require picking a single compute winner; whether the winner is Nvid...
-- [[airbnb]] — Airbnb appears in the World Cup trade as a flexible lodging beneficiary when hotel capacity tightens and host-city demand spills into surrounding neighborhoo...
-- [[airbus-company]] — Airbus is used as the short leg against Boeing because it enters the pair trade with better perceived quality, richer expectations, and a higher risk of narr...
-- [[aixtron]] — AIXTRON is positioned as an upstream equipment supplier with relevance to compound semiconductors and photonics manufacturing, especially where MOCVD capacit...
+- [[academy-sports-outdoors]] — Academy Sports is presented as a regionally advantaged sporting-goods retailer that could benefit from the World Cup through its strong footprint in the American South, especially Texas, where youth-soccer participation and event spillover may reinforce demand.
+- [[accenture]] — Accenture (ACN US) appears in the report as a concrete company expression of bullshit jobs, tying the name to the thesis that AI pressure and corporate cost discipline will create relative winners and losers across knowledge-work and service vendors.
+- [[acm-research-company]] — ACM Research is presented as a semiconductor-equipment company leveraged to China’s domestic wafer-fab and process-tool buildout, especially where local substitution remains strategically important.
+- [[adidas]] — Adidas appears as a straightforward global soccer-equipment and apparel beneficiary of the World Cup, positioned to capture both immediate tournament spending and a longer secular rise in US soccer interest.
+- [[advanced-micro-devices]] — AMD matters in the wiki as a reminder that the AI materials and substrate thesis does not require picking a single compute winner; whether the winner is Nvidia, AMD, or a custom ASIC vendor, the upstream materials stack still benefits.
+- [[agc]] — AGC (5201 JP) appears in the report as a concrete company expression of ai materials, tying the name to the substrate, PCB, and specialty-material layer that quietly enables AI hardware scaling.
+- [[airbnb]] — Airbnb appears in the World Cup trade as a flexible lodging beneficiary when hotel capacity tightens and host-city demand spills into surrounding neighborhoods, creating a more event-sensitive upside than the market may fully price.
+- [[airbus-company]] — Airbus is used as the short leg against Boeing because it enters the pair trade with better perceived quality, richer expectations, and a higher risk of narrative slippage if execution or supply-chain pressure worsens.
+- [[aixtron]] — AIXTRON is positioned as an upstream equipment supplier with relevance to compound semiconductors and photonics manufacturing, especially where MOCVD capacity matters.
+- [[albemarle]] — Albemarle (ALB US) appears in the report as a concrete company expression of post-traumatic supply disorder, tying the name to the cyclical rebound framework built around industries that have already been through a severe supply-demand washout.
+- [[align-technology]] — Align Technology (ALGN US) appears in the report as a concrete company expression of bread and circuses, tying the name to the view that lower-income relief and event spending can unlock selective consumer splurge behavior.
 - [[alstom]] — Alstom appears in the cyclical/project sleeve as a leveraged industrial project company that can stay pressured if European rates remain relatively tight.
-- [[amkor]] — Amkor is presented as a beneficiary of lower-value but still technically advanced packaging work that may be pushed outward as Intel and TSMC reserve premium...
-- [[ansys]] — Ansys enters the wiki as a strategic simulation-software asset tied to the Synopsys setup, mainly through integration uncertainty and the broader software-st...
-- [[antofagasta]] — Antofagasta is included among the copper-sensitive names that benefit when the market rediscovers how slow, expensive, and politically constrained new mine s...
-- [[applied-materials]] — Applied Materials appears as a major equipment enabler for advanced packaging and hybrid-bonding workflows, making it a natural entity bridge between backend...
+- [[amer-sports]] — Amer Sports (AS US) appears in the report as a concrete company expression of the girlfriend index, tying the name to the cultural-consumption framework centered on female consumer momentum and aspirational brands.
+- [[amkor]] — Amkor is presented as a beneficiary of lower-value but still technically advanced packaging work that may be pushed outward as Intel and TSMC reserve premium internal capacity for their highest-priority AI programs.
+- [[ansys]] — Ansys enters the wiki as a strategic simulation-software asset tied to the Synopsys setup, mainly through integration uncertainty and the broader software-stack importance around chip and system design workflows.
+- [[antofagasta]] — Antofagasta is included among the copper-sensitive names that benefit when the market rediscovers how slow, expensive, and politically constrained new mine supply can be.
+- [[applied-materials]] — Applied Materials appears as a major equipment enabler for advanced packaging and hybrid-bonding workflows, making it a natural entity bridge between backend complexity and the broader AI hardware buildout.
 - [[applied-optoelectronics]] — Applied Optoelectronics appears in the optics memo as part of the current generation of transceiver and connectivity winners exposed to AI-networking demand.
+- [[applovin]] — AppLovin (APP US) appears in the report as a concrete company expression of post-traumatic supply disorder, tying the name to the cyclical rebound framework built around industries that have already been through a severe supply-demand washout.
+- [[asahi-kasei]] — Asahi Kasei (3407 JP) appears in the report as a concrete company expression of ai materials, tying the name to the substrate, PCB, and specialty-material layer that quietly enables AI hardware scaling.
+- [[atour-lifestyle-holdings]] — Atour Lifestyle Holdings (ATAT US) appears in the report as a concrete company expression of china trades, tying the name to the basket of anti-involution, logistics, property-service, lifestyle, and domestic-tech names tied to a changing China setup.
 - [[austal]] — Austal appears in the basket as a listed shipbuilder with naval and maritime program exposure, extending the thesis beyond the US and Europe.
-- [[automatic-data-processing]] — Automatic Data Processing appears in the basket as a powerful payroll-distribution channel for earned-wage-access products, making it an infrastructure-layer...
+- [[automatic-data-processing]] — Automatic Data Processing appears in the basket as a powerful payroll-distribution channel for earned-wage-access products, making it an infrastructure-layer expression of the theme.
 - [[avio]] — Avio appears in the orbital-logistics sleeve as a European launch and space-industrial expression of the space supply-chain basket.
-- [[axcelis-technologies]] — Axcelis Technologies is highlighted as a semiconductor-equipment name with leverage to silicon-carbide and other process bottlenecks that may benefit as AI p...
-- [[bhp-group]] — BHP Group appears as one of the listed mining beneficiaries of a world still short of long-dated commodity supply after years of underinvestment, permitting...
+- [[axcelis-technologies]] — Axcelis Technologies is highlighted as a semiconductor-equipment name with leverage to silicon-carbide and other process bottlenecks that may benefit as AI power architecture absorbs stranded EV supply-chain capacity.
+- [[be-semi]] — BE Semiconductor Industries (BESI NA) appears in the report as a concrete company expression of advanced packaging, tying the name to the packaging, assembly, and integration bottleneck created by advanced AI chips.
+- [[bhp-group]] — BHP Group appears as one of the listed mining beneficiaries of a world still short of long-dated commodity supply after years of underinvestment, permitting friction, and cost inflation.
 - [[block]] — Block appears in the existing live sleeve referenced by the wiki as a broader payments-rail expression of earned-wage access and consumer liquidity.
-- [[boeing-company]] — Boeing is framed as the beaten-down long leg of a contrarian aerospace pair trade, with the thesis centered on operational normalization, financial recovery,...
-- [[boot-barn]] — Boot Barn is included as a quirky Americana retail beneficiary of World Cup tourism, with the memo arguing that foreign visitors and domestic travelers could...
-- [[broadcom]] — Broadcom is used in the source as an example of how strongly the market has already rewarded AI-adjacent semiconductor exposure, making it an important bench...
+- [[boeing-company]] — Boeing is framed as the beaten-down long leg of a contrarian aerospace pair trade, with the thesis centered on operational normalization, financial recovery, and upside from expectations that are already washed out.
+- [[boot-barn]] — Boot Barn is included as a quirky Americana retail beneficiary of World Cup tourism, with the memo arguing that foreign visitors and domestic travelers could drive incremental spend in a chain unusually concentrated in key host cities like Houston and Dallas.
+- [[broadcom]] — Broadcom is used in the source as an example of how strongly the market has already rewarded AI-adjacent semiconductor exposure, making it an important benchmark when looking for cheaper ways to express edge and inference growth.
+- [[brp-inc]] — BRP (DOO US) appears in the report as a concrete company expression of bread and circuses, tying the name to the view that lower-income relief and event spending can unlock selective consumer splurge behavior.
+- [[bt-group]] — BT Group (BT/A LN) appears in the report as a concrete company expression of bullshit jobs, tying the name to the thesis that AI pressure and corporate cost discipline will create relative winners and losers across knowledge-work and service vendors.
 - [[builders-firstsource]] — Builders FirstSource appears as a building-materials supplier leveraged to a healthier US housing backdrop under lower rates.
-- [[bwx-technologies]] — BWX Technologies appears in both the shipbuilding and space-related visual baskets, making it a useful crossover entity for hard-to-replicate strategic manuf...
-- [[cadence]] — Cadence is the key public benchmark and duopoly peer for Synopsys, making it important to the wiki as the valuation and competitive comparator behind one of...
+- [[bwx-technologies]] — BWX Technologies appears in both the shipbuilding and space-related visual baskets, making it a useful crossover entity for hard-to-replicate strategic manufacturing capability.
+- [[byd]] — BYD (1211 HK) appears in the report as a concrete company expression of china trades, tying the name to the basket of anti-involution, logistics, property-service, lifestyle, and domestic-tech names tied to a changing China setup.
+- [[c-and-d-property-management]] — C&D Property Management (2156 HK) appears in the report as a concrete company expression of china trades, tying the name to the basket of anti-involution, logistics, property-service, lifestyle, and domestic-tech names tied to a changing China setup.
+- [[cadence]] — Cadence is the key public benchmark and duopoly peer for Synopsys, making it important to the wiki as the valuation and competitive comparator behind one of the source’s single-name semiconductor-software trades.
+- [[capgemini]] — Capgemini (CAP FP) appears in the report as a concrete company expression of bullshit jobs, tying the name to the thesis that AI pressure and corporate cost discipline will create relative winners and losers across knowledge-work and service vendors.
+- [[capital-one]] — Capital One (COF US) appears in the report as a concrete company expression of bread and circuses, tying the name to the view that lower-income relief and event spending can unlock selective consumer splurge behavior.
+- [[catl]] — CATL (3750 HK) appears in the report as a concrete company expression of china trades, tying the name to the basket of anti-involution, logistics, property-service, lifestyle, and domestic-tech names tied to a changing China setup.
 - [[cava-group]] — CAVA Group appears as a Slop Bowl merchant where throughput, menu structure, and consumer trade-offs make it a thematic fit with fast-casual resilience.
+- [[celestica]] — Celestica (CLS US) appears in the report as a concrete company expression of ai materials, tying the name to the substrate, PCB, and specialty-material layer that quietly enables AI hardware scaling.
 - [[cellnex]] — Cellnex appears under levered duration as a capital-intensive infrastructure name that can stay pressured if the ECB remains relatively hawkish.
-- [[centene]] — Centene is included as a secondary managed-care beneficiary of a potential GOP House loss, where policy stability around the ACA and Medicaid would remove so...
-- [[chipotle-mexican-grill]] — Chipotle Mexican Grill appears in the Slop Bowl visual as a merchant beneficiary of pressured consumers still willing to spend on convenient, repeatable fast...
-- [[choice-hotels-international]] — Choice Hotels is framed as a down-market lodging beneficiary of World Cup overflow demand, with the memo arguing that even secondary hotel brands can benefit...
-- [[chugoku-marine-paints]] — Chugoku Marine Paints appears in the basket as a specialized maritime coatings beneficiary, showing how the shipbuilding thesis reaches into less obvious con...
+- [[centene]] — Centene is included as a secondary managed-care beneficiary of a potential GOP House loss, where policy stability around the ACA and Medicaid would remove some downside fear even if Molina remains the cleaner expression.
+- [[ch-robinson]] — CH Robinson (CHRW US) appears in the report as a concrete company expression of bullshit jobs, tying the name to the thesis that AI pressure and corporate cost discipline will create relative winners and losers across knowledge-work and service vendors.
+- [[china-mengniu-dairy]] — China Mengniu Dairy (2319 HK) appears in the report as a concrete company expression of world cup, tying the name to the event-driven basket tied to lodging, travel, retail, and sponsor-adjacent demand around the 2026 tournament.
+- [[chipotle-mexican-grill]] — Chipotle Mexican Grill appears in the Slop Bowl visual as a merchant beneficiary of pressured consumers still willing to spend on convenient, repeatable fast-casual food.
+- [[choice-hotels-international]] — Choice Hotels is framed as a down-market lodging beneficiary of World Cup overflow demand, with the memo arguing that even secondary hotel brands can benefit when premium inventory is constrained across host markets.
+- [[chugoku-marine-paints]] — Chugoku Marine Paints appears in the basket as a specialized maritime coatings beneficiary, showing how the shipbuilding thesis reaches into less obvious consumables and maintenance layers.
 - [[ciena]] — Ciena is framed as an optical-backbone beneficiary of AI traffic growth, especially east-west and inter-data-center traffic.
-- [[cloudflare]] — Cloudflare is described as a leading all-in-one agentic-internet platform, spanning edge compute, security, browser infrastructure, and agentic commerce prim...
+- [[circus-se]] — Circus SE (CA1 GR) appears in the report as a concrete company expression of slop bowl economics, tying the name to the restaurant-automation and low-cost food-economics setup.
+- [[cloudflare]] — Cloudflare is described as a leading all-in-one agentic-internet platform, spanning edge compute, security, browser infrastructure, and agentic commerce primitives.
 - [[cofinimmo]] — Cofinimmo appears in the EU levered property basket as a rate-sensitive property name vulnerable to a relatively hawkish ECB backdrop.
 - [[compass-group]] — Compass Group appears in the restaurant-robotics sleeve as a food-service operator with practical exposure to labor efficiency and automation adoption.
-- [[conrad-shipyards]] — Conrad Shipyards appears in the basket as a smaller-cap yard exposure that offers a more direct but less liquid way to express renewed demand for shipbuildin...
+- [[conrad-shipyards]] — Conrad Shipyards appears in the basket as a smaller-cap yard exposure that offers a more direct but less liquid way to express renewed demand for shipbuilding capacity.
 - [[covivio]] — Covivio appears in the leveraged-property sleeve as another financing-sensitive continental real-estate expression.
-- [[d-r-horton]] — D.R. Horton appears in the US refi beneficiaries basket as a homebuilder that could benefit if lower US rates revive affordability, housing turnover, and dem...
-- [[dave-inc]] — Dave is used as a direct earned-wage-access and small-dollar-advance expression, with the source highlighting unusually attractive fee economics against fund...
+- [[credit-acceptance]] — Credit Acceptance (CACC US) appears in the report as a concrete company expression of bread and circuses, tying the name to the view that lower-income relief and event spending can unlock selective consumer splurge behavior.
+- [[d-r-horton]] — D.R.
+- [[dave-and-buster]] — Dave & Buster's (PLAY US) appears in the report as a concrete company expression of bread and circuses, tying the name to the view that lower-income relief and event spending can unlock selective consumer splurge behavior.
+- [[dave-inc]] — Dave is used as a direct earned-wage-access and small-dollar-advance expression, with the source highlighting unusually attractive fee economics against funding, loss, and regulatory risk.
 - [[dayforce]] — Dayforce appears as a payroll and HCM platform with on-demand-pay functionality, making it a software-distribution expression of the earned-wage-access thesis.
-- [[delta-air-lines]] — Delta is included as a preferred airline beneficiary of World Cup travel demand, where already-strong international flows could get an extra pricing and load...
-- [[dicks-sporting-goods]] — Dick’s Sporting Goods is framed as an obvious but still underappreciated beneficiary of World Cup-related demand, with the memo arguing that prior concerns a...
-- [[e-on]] — E.ON appears as another primary European-utility outperformer in a friendlier gas and grid environment, offering exposure to lower volatility, better energy...
-- [[enel]] — Enel is presented as a primary European-utility beneficiary if gas and power-market conditions normalize, with lower volatility and better spark spreads impr...
+- [[delta-air-lines]] — Delta is included as a preferred airline beneficiary of World Cup travel demand, where already-strong international flows could get an extra pricing and load-factor boost during the peak summer travel window.
+- [[dicks-sporting-goods]] — Dick’s Sporting Goods is framed as an obvious but still underappreciated beneficiary of World Cup-related demand, with the memo arguing that prior concerns around tariffs, firearms controversy, and store-footprint worries have faded enough for the company to absorb a soccer-driven spending bump.
+- [[dynamic-electronics]] — Dynamic Electronics (3205 TT) appears in the report as a concrete company expression of ai materials, tying the name to the substrate, PCB, and specialty-material layer that quietly enables AI hardware scaling.
+- [[e-on]] — E.ON appears as another primary European-utility outperformer in a friendlier gas and grid environment, offering exposure to lower volatility, better energy economics, and a less punitive policy backdrop.
+- [[elevra-lithium]] — Elevra Lithium (ELV AU) appears in the report as a concrete company expression of post-traumatic supply disorder, tying the name to the cyclical rebound framework built around industries that have already been through a severe supply-demand washout.
+- [[enel]] — Enel is presented as a primary European-utility beneficiary if gas and power-market conditions normalize, with lower volatility and better spark spreads improving earnings visibility and balance-sheet flexibility.
 - [[enova-international]] — Enova International appears as an online non-prime lender inside the liquidity basket, making it a more direct credit-risk expression of the theme.
-- [[esco-technologies]] — ESCO Technologies shows up in the naval shipbuilding basket as a defense-and-industrial supplier whose systems exposure makes it a second-order beneficiary o...
-- [[everquote]] — EverQuote is treated as another listed insurance lead-gen beneficiary whose cyclical recovery could be much stronger than current market expectations if carr...
-- [[evolv-technologies]] — Evolv Technologies is highlighted as an event-security beneficiary because its screening systems can help move large crowds through checkpoints faster, and F...
+- [[esco-technologies]] — ESCO Technologies shows up in the naval shipbuilding basket as a defense-and-industrial supplier whose systems exposure makes it a second-order beneficiary of maritime and naval spend.
+- [[everquote]] — EverQuote is treated as another listed insurance lead-gen beneficiary whose cyclical recovery could be much stronger than current market expectations if carrier acquisition budgets surge.
+- [[evolv-technologies]] — Evolv Technologies is highlighted as an event-security beneficiary because its screening systems can help move large crowds through checkpoints faster, and FIFA-related deployments give the company both revenue opportunity and validation ahead of the World Cup.
 - [[ezcorp]] — EZCORP appears in the liquidity basket as another pawn-centered expression of lower-income cash needs.
 - [[fanuc]] — Fanuc appears in the visual as a robotics-platform exposure linked to restaurant and service automation.
 - [[fidelity-national-financial]] — Fidelity National Financial appears in the refi basket through title insurance and settlement services that improve when housing transactions recover.
-- [[fincantieri]] — Fincantieri appears in the basket as a direct European shipbuilding expression, supporting the idea that scarce naval and maritime industrial capacity is bei...
+- [[fincantieri]] — Fincantieri appears in the basket as a direct European shipbuilding expression, supporting the idea that scarce naval and maritime industrial capacity is being strategically repriced.
 - [[first-american-financial]] — First American Financial appears as another title-and-settlement beneficiary of a US housing and refinancing revival.
 - [[firstcash-holdings]] — FirstCash Holdings appears in the lower-income liquidity basket as a pawn and cash-access beneficiary of household stress and short-term funding needs.
+- [[fortum]] — Fortum (FORTUM FH) appears in the report as a concrete company expression of long european utilities, tying the name to the power-market and rate-divergence setup around European utilities and related beneficiaries.
 - [[fortune-brands-innovations]] — Fortune Brands Innovations appears as a home-and-building-products beneficiary if easier rates revive housing-related spending.
+- [[fox-factory]] — Fox Factory (FOXF US) appears in the report as a concrete company expression of bread and circuses, tying the name to the view that lower-income relief and event spending can unlock selective consumer splurge behavior.
 - [[fraport]] — Fraport appears under cyclical/project names within the hawkish-ECB sleeve, linking airport and travel infrastructure to European financing conditions.
-- [[freeport-mcmoran]] — Freeport-McMoRan is cited as a copper-linked beneficiary of a regime where major new supply is difficult and expensive to bring online, making existing scale...
-- [[furuno]] — Furuno appears in the naval shipbuilding basket as a maritime electronics and navigation supplier, highlighting the sensor-and-systems layer of the shipbuild...
+- [[freeport-mcmoran]] — Freeport-McMoRan is cited as a copper-linked beneficiary of a regime where major new supply is difficult and expensive to bring online, making existing scale assets more valuable over time.
+- [[furukawa-electric]] — Furukawa Electric (5801 JP) appears in the report as a concrete company expression of ai materials, tying the name to the substrate, PCB, and specialty-material layer that quietly enables AI hardware scaling.
+- [[furuno]] — Furuno appears in the naval shipbuilding basket as a maritime electronics and navigation supplier, highlighting the sensor-and-systems layer of the shipbuilding theme.
+- [[ganfeng]] — Ganfeng Lithium (1772 HK) appears in the report as a concrete company expression of post-traumatic supply disorder, tying the name to the cyclical rebound framework built around industries that have already been through a severe supply-demand washout.
 - [[gecina]] — Gecina appears in the EU property sleeve as a listed real-estate name exposed to relative European rate stickiness.
-- [[gendigital]] — GenDigital appears in the partnered on-demand pay basket because its MoneyLion acquisition gives it earned-wage-access and short-term-liquidity exposure thro...
-- [[general-dynamics]] — General Dynamics appears in the naval shipbuilding basket as a major US defense prime with direct exposure to naval programs, making it one of the clearest l...
+- [[geely-auto-holdings]] — Geely Auto Holdings (175 HK) appears in the report as a concrete company expression of next gen autonomous, tying the name to the autonomy stack spanning EV challengers, robotaxi enablement, and adjacent manufacturing partners.
+- [[gendigital]] — GenDigital appears in the partnered on-demand pay basket because its MoneyLion acquisition gives it earned-wage-access and short-term-liquidity exposure through a consumer-finance platform.
+- [[general-dynamics]] — General Dynamics appears in the naval shipbuilding basket as a major US defense prime with direct exposure to naval programs, making it one of the clearest large-cap expressions of the shipbuilding theme.
 - [[getlink]] — Getlink appears in the levered-duration sleeve as an infrastructure asset whose financing sensitivity makes it part of the Europe side of the divergence trade.
-- [[goodyear-tire-rubber]] — Goodyear is cited as evidence that EV and autonomy trends can lift tire revenue and margins, making it a practical single-name anchor for the idea that repla...
-- [[graham-corporation]] — Graham Corporation appears as a shipbuilding-adjacent industrial supplier in the basket, helping express the thesis through components rather than only throu...
+- [[goodyear-tire-rubber]] — Goodyear is cited as evidence that EV and autonomy trends can lift tire revenue and margins, making it a practical single-name anchor for the idea that replacement and premium-tire demand rise with heavier, more intensely used vehicles.
+- [[graham-corporation]] — Graham Corporation appears as a shipbuilding-adjacent industrial supplier in the basket, helping express the thesis through components rather than only through prime yards.
+- [[graham]] — Graham (GHM US) appears in the report as a concrete company expression of shipbuilding, tying the name to the naval and maritime-capacity basket tied to rearmament and industrial bottlenecks.
 - [[green-dot]] — Green Dot appears in the liquidity basket as a prepaid-debit and transaction-rail beneficiary of early-paycheck access and overdraft-like features.
+- [[guardant-health]] — Guardant Health (GH US) appears in the report as a concrete company expression of post-traumatic supply disorder, tying the name to the cyclical rebound framework built around industries that have already been through a severe supply-demand washout.
+- [[h-world-group]] — H World Group (HTHT US) appears in the report as a concrete company expression of china trades, tying the name to the basket of anti-involution, logistics, property-service, lifestyle, and domestic-tech names tied to a changing China setup.
 - [[hanwha-ocean]] — Hanwha Ocean appears as a Korean shipbuilding beneficiary in the basket, reflecting the global breadth of the maritime-capacity trade.
 - [[hd-hyundai-heavy-industries]] — HD Hyundai Heavy Industries appears in the basket as a major Asian yard and heavy-industrial expression of tight global shipbuilding capacity.
 - [[hensoldt]] — Hensoldt appears in the basket as a defense-electronics and sensor name tied to the rearmament side of the shipbuilding trade.
-- [[hexcel]] — Hexcel appears in the Space Supply Chain basket under The New Shipbuilders, linking advanced materials and aerospace structures to the orbital-manufacturing...
-- [[himax]] — Himax is presented as an underfollowed legacy display-driver company with optionality in co-packaged optics through micro-lens arrays, prisms, and FAU-relate...
-- [[huntington-ingalls]] — Huntington Ingalls is one of the most direct public-market expressions of the naval-capacity thesis because its franchise is tightly linked to US naval shipb...
-- [[iberdrola]] — Iberdrola is named as a primary European-utility outperformer in the memo’s bullish power-market setup, reflecting its leverage to lower energy stress, bette...
+- [[hexcel]] — Hexcel appears in the Space Supply Chain basket under The New Shipbuilders, linking advanced materials and aerospace structures to the orbital-manufacturing thesis.
+- [[himax]] — Himax is presented as an underfollowed legacy display-driver company with optionality in co-packaged optics through micro-lens arrays, prisms, and FAU-related manufacturing, plus possible smart-glasses upside.
+- [[humana]] — Humana (HUM US) appears in the report as a concrete company expression of conditional on gop losing, tying the name to the managed-care and health-policy setup tied to a weaker Republican outcome.
+- [[huntington-ingalls]] — Huntington Ingalls is one of the most direct public-market expressions of the naval-capacity thesis because its franchise is tightly linked to US naval shipbuilding and maintenance.
+- [[hyphen]] — Hyphen appears in the report as a notable private or non-core-listed company linked to slop bowl economics, making it relevant to the restaurant-automation and low-cost food-economics setup.
+- [[iberdrola]] — Iberdrola is named as a primary European-utility outperformer in the memo’s bullish power-market setup, reflecting its leverage to lower energy stress, better regulatory conditions, and steadier earnings visibility.
+- [[intel]] — Intel (INTC US) appears in the report as a concrete company expression of synopsys, tying the name to the single-name software and EDA thesis around chip complexity, verification, and simulation.
 - [[intuitive-machines]] — Intuitive Machines appears in the orbital-logistics sleeve as a higher-beta space-infrastructure and mission-services expression.
-- [[jumia-company]] — Jumia is treated as a turnaround African e-commerce platform where improving execution, category maturity, and a better emerging-markets backdrop could unloc...
+- [[ipsos]] — Ipsos (IPS FP) appears in the report as a concrete company expression of midterm media spend, tying the name to the election-cycle spend thesis spanning agencies, broadcasters, and polling/data vendors.
+- [[isu-petasys]] — ISU Petasys (007660 KS) appears in the report as a concrete company expression of ai materials, tying the name to the substrate, PCB, and specialty-material layer that quietly enables AI hardware scaling.
+- [[jb-hunt]] — JB Hunt (JBHT US) appears in the report as a concrete company expression of post-traumatic supply disorder, tying the name to the cyclical rebound framework built around industries that have already been through a severe supply-demand washout.
+- [[jinmao-property-services]] — Jinmao Property Services (816 HK) appears in the report as a concrete company expression of china trades, tying the name to the basket of anti-involution, logistics, property-service, lifestyle, and domestic-tech names tied to a changing China setup.
+- [[jumia-company]] — Jumia is treated as a turnaround African e-commerce platform where improving execution, category maturity, and a better emerging-markets backdrop could unlock substantial equity upside from a deeply discounted base.
+- [[kanto-denka-kogyo]] — Kanto Denka Kogyo (private/public) appears in the report as a concrete company expression of ai materials, tying the name to the substrate, PCB, and specialty-material layer that quietly enables AI hardware scaling.
+- [[kearny-financial]] — Kearny Financial (KRNY US) appears in the report as a concrete company expression of rate sensitive regional banks, tying the name to the rate-driven recovery thesis for smaller banks and related financial beneficiaries.
+- [[kering]] — Kering (KER FP) appears in the report as a concrete company expression of the girlfriend index, tying the name to the cultural-consumption framework centered on female consumer momentum and aspirational brands.
 - [[klepierre]] — Klepierre appears in the EU property sleeve as a consumer-and-property-duration name exposed to relative ECB firmness.
-- [[kongsberg-gruppen]] — Kongsberg Gruppen appears as a Nordic defense-and-maritime systems beneficiary within the shipbuilding basket, bridging naval capability with maritime electr...
+- [[knight-swift]] — Knight-Swift Transportation (KNX US) appears in the report as a concrete company expression of post-traumatic supply disorder, tying the name to the cyclical rebound framework built around industries that have already been through a severe supply-demand washout.
+- [[kongsberg-gruppen]] — Kongsberg Gruppen appears as a Nordic defense-and-maritime systems beneficiary within the shipbuilding basket, bridging naval capability with maritime electronics and weapons exposure.
+- [[kulicke-and-soffa]] — Kulicke & Soffa (KLIC US) appears in the report as a concrete company expression of advanced packaging, tying the name to the packaging, assembly, and integration bottleneck created by advanced AI chips.
 - [[l3harris-technologies]] — L3Harris appears in the space-defense sleeve as a communications, sensors, and mission-systems beneficiary of growing orbital and defense infrastructure.
+- [[lattice-semiconductor]] — Lattice Semiconductor appears in the Citrindex implementation of the [[inference-on-device]] trade as a component-level beneficiary of edge and endpoint AI rather than as a consumer-device assembler.
 - [[leg-immobilien]] — LEG Immobilien appears as another leveraged European property expression in the hawkish-ECB sleeve.
-- [[leidos]] — Leidos appears in the space-traffic-control sleeve as a systems and defense-infrastructure name linked to the governance and coordination layer of growing or...
-- [[lendingtree]] — LendingTree is identified as one of the main listed insurance lead-generation platforms positioned to benefit if auto-insurance profitability recycles into s...
+- [[leidos]] — Leidos appears in the space-traffic-control sleeve as a systems and defense-infrastructure name linked to the governance and coordination layer of growing orbital activity.
+- [[lemonade]] — Lemonade (LMND US) appears in the report as a concrete company expression of post-traumatic supply disorder, tying the name to the cyclical rebound framework built around industries that have already been through a severe supply-demand washout.
+- [[lendingtree]] — LendingTree is identified as one of the main listed insurance lead-generation platforms positioned to benefit if auto-insurance profitability recycles into sharply stronger marketing spend in 2026.
 - [[lennar]] — Lennar appears as another large US homebuilder positioned to benefit from lower domestic rates and a healthier housing turnover backdrop.
-- [[lattice-semiconductor]] — Lattice Semiconductor appears in the inference-on-device basket as a low-power edge-silicon and endpoint-enablement beneficiary rather than a consumer-device assembler.
-- [[lumentum]] — Lumentum is a visible public-market proxy for the AI optics buildout, spanning coherent components, datacenter interconnect exposure, and laser-heavy photoni...
+- [[lithia-motors]] — Lithia Motors (LAD US) appears in the report as a concrete company expression of bread and circuses, tying the name to the view that lower-income relief and event spending can unlock selective consumer splurge behavior.
+- [[live-nation]] — Live Nation (LYV US) appears in the report as a concrete company expression of bread and circuses, tying the name to the view that lower-income relief and event spending can unlock selective consumer splurge behavior.
+- [[luckin-coffee]] — Luckin Coffee (LKNCY US) appears in the report as a concrete company expression of china trades, tying the name to the basket of anti-involution, logistics, property-service, lifestyle, and domestic-tech names tied to a changing China setup.
+- [[lumentum]] — Lumentum is a visible public-market proxy for the AI optics buildout, spanning coherent components, datacenter interconnect exposure, and laser-heavy photonics demand.
+- [[lvmh]] — LVMH (MC FP) appears in the report as a concrete company expression of the girlfriend index, tying the name to the cultural-consumption framework centered on female consumer momentum and aspirational brands.
+- [[magna]] — Magna (MGA US) appears in the report as a concrete company expression of next gen autonomous, tying the name to the autonomy stack spanning EV challengers, robotaxi enablement, and adjacent manufacturing partners.
 - [[mda]] — MDA appears in the orbital-logistics sleeve as a space-infrastructure and systems expression of the moonshot basket.
-- [[mediaalpha]] — MediaAlpha is presented as a sub-scale but highly cyclical insurance-marketing beneficiary whose revenue could accelerate sharply if carriers shift from marg...
-- [[mengniu-dairy]] — Mengniu Dairy is included as a wildcard World Cup-related sponsor name, with the memo noting that its global sponsorship profile and inexpensive cash-flow mu...
+- [[mediaalpha]] — MediaAlpha is presented as a sub-scale but highly cyclical insurance-marketing beneficiary whose revenue could accelerate sharply if carriers shift from margin harvest to customer acquisition.
+- [[mediatek]] — MediaTek (2454 TT) appears in the report as a concrete company expression of inference on device, tying the name to the view that local and edge inference will matter as much as cloud inference in the next phase of AI adoption.
+- [[mengniu-dairy]] — Mengniu Dairy is included as a wildcard World Cup-related sponsor name, with the memo noting that its global sponsorship profile and inexpensive cash-flow multiple make it an offbeat way to express event-driven brand exposure.
+- [[mentor]] — Mentor Graphics appears in the report as a notable private or non-core-listed company linked to synopsys, making it relevant to the single-name software and EDA thesis around chip complexity, verification, and simulation.
 - [[mercury-systems]] — Mercury Systems appears in the space-defense sleeve as an electronics and mission-systems expression of scaled orbital defense demand.
 - [[merlin-properties]] — Merlin Properties appears in the European property sleeve as another listed asset-heavy vehicle exposed to a tougher financing backdrop.
-- [[microstrategy-company]] — MicroStrategy is treated as a financial-engineering wrapper around bitcoin exposure whose fast-changing capital structure can create mispricings relative to...
+- [[metax]] — MetaX appears in the report as a notable private or non-core-listed company linked to china trades, making it relevant to the basket of anti-involution, logistics, property-service, lifestyle, and domestic-tech names tied to a changing China setup.
+- [[microstrategy-company]] — MicroStrategy is treated as a financial-engineering wrapper around bitcoin exposure whose fast-changing capital structure can create mispricings relative to the underlying asset and its own preferred or structured instruments.
 - [[middleby]] — Middleby appears in the restaurant-robotics sleeve as an equipment and kitchen-systems provider that can monetize automation spend by fast-casual merchants.
-- [[mitsubishi-heavy-industries]] — Mitsubishi Heavy Industries appears as a large diversified industrial and defense name inside the naval shipbuilding basket, adding heavyweight Japanese expo...
-- [[molina-healthcare]] — Molina Healthcare is the preferred single-name vehicle for the memo’s Medicaid and House-flip thesis, positioned as an operationally strong managed-care oper...
-- [[nerdwallet-company]] — NerdWallet is treated as a consumer-finance marketplace and lead-gen platform with upside to stronger insurance marketing spend and resilient high-intent tra...
+- [[miso-robotics]] — Miso Robotics appears in the report as a notable private or non-core-listed company linked to slop bowl economics, making it relevant to the restaurant-automation and low-cost food-economics setup.
+- [[mitsubishi-gas-chemical]] — Mitsubishi Gas Chemical (4182 JP) appears in the report as a concrete company expression of ai materials, tying the name to the substrate, PCB, and specialty-material layer that quietly enables AI hardware scaling.
+- [[mitsubishi-heavy-industries]] — Mitsubishi Heavy Industries appears as a large diversified industrial and defense name inside the naval shipbuilding basket, adding heavyweight Japanese exposure to the maritime-capacity thesis.
+- [[mitsubishi-heavy]] — Mitsubishi Heavy Industries (7011 JP) appears in the report as a concrete company expression of shipbuilding, tying the name to the naval and maritime-capacity basket tied to rearmament and industrial bottlenecks.
+- [[molina-healthcare]] — Molina Healthcare is the preferred single-name vehicle for the memo’s Medicaid and House-flip thesis, positioned as an operationally strong managed-care operator whose valuation still reflects excessive policy fear.
+- [[molina]] — Molina Healthcare (MOH US) appears in the report as a concrete company expression of conditional on gop losing, tying the name to the managed-care and health-policy setup tied to a weaker Republican outcome.
+- [[moore-threads]] — Moore Threads appears in the report as a notable private or non-core-listed company linked to china trades, making it relevant to the basket of anti-involution, logistics, property-service, lifestyle, and domestic-tech names tied to a changing China setup.
+- [[murata-manufacturing]] — Murata Manufacturing (6981 JP) appears in the report as a concrete company expression of inference on device, tying the name to the view that local and edge inference will matter as much as cloud inference in the next phase of AI adoption.
+- [[namics]] — Namics appears in the report as a notable private or non-core-listed company linked to ai materials, making it relevant to the substrate, PCB, and specialty-material layer that quietly enables AI hardware scaling.
+- [[national-vision-holdings]] — National Vision Holdings (EYE US) appears in the report as a concrete company expression of bread and circuses, tying the name to the view that lower-income relief and event spending can unlock selective consumer splurge behavior.
+- [[nerdwallet-company]] — NerdWallet is treated as a consumer-finance marketplace and lead-gen platform with upside to stronger insurance marketing spend and resilient high-intent traffic.
 - [[northrop-grumman]] — Northrop Grumman appears in the space-defense sleeve as a large-cap contractor tied to strategic and orbital defense architecture.
 - [[nvidia]] — Nvidia is the central platform company tying together compute demand, rack-power transitions, and future optical architectures.
 - [[onemain-holdings]] — OneMain Holdings appears as a targeted personal-loan and subprime credit expression inside the liquidity basket.
-- [[oppenheimer-holdings]] — Oppenheimer Holdings is presented as a middle-market investment bank and wealth manager whose earnings power could re-rate if capital-markets activity normal...
-- [[oscar-health]] — Oscar Health is the higher-beta managed-care expression in the memo’s House-flip basket, included as a more volatile way to benefit if healthcare-policy fear...
+- [[op-bancorp]] — OP Bancorp (OPBK US) appears in the report as a concrete company expression of rate sensitive regional banks, tying the name to the rate-driven recovery thesis for smaller banks and related financial beneficiaries.
+- [[oppenheimer-holdings]] — Oppenheimer Holdings is presented as a middle-market investment bank and wealth manager whose earnings power could re-rate if capital-markets activity normalizes and the market stops focusing only on the cyclical trough.
+- [[oscar-health]] — Oscar Health is the higher-beta managed-care expression in the memo’s House-flip basket, included as a more volatile way to benefit if healthcare-policy fears recede and ACA status quo outcomes persist.
+- [[oscar]] — Oscar Health (OSCR US) appears in the report as a concrete company expression of conditional on gop losing, tying the name to the managed-care and health-policy setup tied to a weaker Republican outcome.
 - [[paycom]] — Paycom appears in the basket because daily-pay functionality makes it another payroll-software route into earned-wage access.
 - [[paylocity]] — Paylocity appears in the partnered on-demand pay basket as an HCM platform with embedded access to on-demand payment functionality.
 - [[pennymac-financial]] — PennyMac Financial appears in the refi basket as a mortgage originator and servicer with direct leverage to refinancing and housing-finance activity.
 - [[pool-corporation]] — Pool Corporation appears in the US refi beneficiaries basket as a downstream housing-activity and home-improvement beneficiary.
+- [[prada-group]] — Prada Group (1913 HK) appears in the report as a concrete company expression of the girlfriend index, tying the name to the cultural-consumption framework centered on female consumer momentum and aspirational brands.
 - [[prog-holdings]] — PROG Holdings appears in the liquidity basket through second-look and revolving-credit exposure to consumers who may not fit prime underwriting boxes.
 - [[pultegroup]] — PulteGroup appears in the US refi basket as a housing-cycle beneficiary if falling rates unlock buyer demand and related housing activity.
-- [[quinstreet]] — QuinStreet is included among the core insurance-marketing platforms expected to benefit disproportionately if 2026 becomes a peak acquisition year for carrie...
-- [[raiffeisen-bank-international]] — Raiffeisen Bank International is used as a deep-value geopolitical special situation tied to the possibility that Russia-Ukraine outcomes or sanctions dynami...
+- [[quinstreet]] — QuinStreet is included among the core insurance-marketing platforms expected to benefit disproportionately if 2026 becomes a peak acquisition year for carriers and lead buyers.
+- [[raiffeisen-bank-international]] — Raiffeisen Bank International is used as a deep-value geopolitical special situation tied to the possibility that Russia-Ukraine outcomes or sanctions dynamics eventually move away from the most punitive current assumptions.
+- [[ralph-lauren]] — Ralph Lauren (RL US) appears in the report as a concrete company expression of the girlfriend index, tying the name to the cultural-consumption framework centered on female consumer momentum and aspirational brands.
+- [[rci-hospitality]] — RCI Hospitality (RICK US) appears in the report as a concrete company expression of bread and circuses, tying the name to the view that lower-income relief and event spending can unlock selective consumer splurge behavior.
 - [[redwire]] — Redwire appears in the Space Supply Chain basket as a direct orbital-logistics and in-space-manufacturing infrastructure expression of the moonshot thesis.
-- [[resonac]] — Resonac is shown in the uploaded PDF as a focal AI-materials name whose portfolio spans semiconductor front-end gases and slurries, back-end packaging materi...
+- [[resonac]] — Resonac is shown in the uploaded PDF as a focal AI-materials name whose portfolio spans semiconductor front-end gases and slurries, back-end packaging materials, and silicon-carbide-related device solutions, making it a concrete upstream expression of the AI materials thesis.
+- [[richemont]] — Richemont (CFR SW) appears in the report as a concrete company expression of the girlfriend index, tying the name to the cultural-consumption framework centered on female consumer momentum and aspirational brands.
+- [[robinhood]] — Robinhood (HOOD US) appears in the report as a concrete company expression of post-traumatic supply disorder, tying the name to the cyclical rebound framework built around industries that have already been through a severe supply-demand washout.
 - [[rocket-companies]] — Rocket Companies appears as a mortgage-originator beneficiary if lower US rates reawaken refinancing and consumer mortgage activity.
-- [[rocket-lab]] — Rocket Lab appears as a direct launch-and-space-systems beneficiary within the Space Supply Chain basket, making it one of the clearest market expressions of...
-- [[rockwell-automation]] — Rockwell Automation appears in the restaurant-robotics sleeve as an industrial automation enabler whose systems can benefit from a wider service-sector push...
+- [[rocket-lab]] — Rocket Lab appears as a direct launch-and-space-systems beneficiary within the Space Supply Chain basket, making it one of the clearest market expressions of scaling orbital services.
+- [[rockwell-automation]] — Rockwell Automation appears in the restaurant-robotics sleeve as an industrial automation enabler whose systems can benefit from a wider service-sector push toward labor-saving equipment.
 - [[rolls-royce]] — Rolls-Royce appears in the basket as a propulsion and power-systems beneficiary of renewed naval and maritime capital spending.
-- [[samsung-heavy-industries]] — Samsung Heavy Industries appears in the basket as another major Korean yard exposure, supporting the idea that strategic maritime capacity is constrained and...
-- [[sims]] — Sims is framed as a recycler and IT asset-recovery business that can monetize the eventual turnover of AI servers, accelerators, storage, and memory-heavy da...
-- [[southern-copper]] — Southern Copper appears as another direct copper beneficiary of the source’s underinvestment thesis, offering a cleaner commodity-specific expression of supp...
-- [[sports-gear]] — Sports Gear is highlighted as a Taiwanese cleated-footwear manufacturer with contract exposure to major global brands, making it a less obvious but operation...
+- [[rwe]] — RWE (RWE GR) appears in the report as a concrete company expression of long european utilities, tying the name to the power-market and rate-divergence setup around European utilities and related beneficiaries.
+- [[samsung-heavy-industries]] — Samsung Heavy Industries appears in the basket as another major Korean yard exposure, supporting the idea that strategic maritime capacity is constrained and valuable.
+- [[sf-express]] — SF Express (6936 HK) appears in the report as a concrete company expression of china trades, tying the name to the basket of anti-involution, logistics, property-service, lifestyle, and domestic-tech names tied to a changing China setup.
+- [[siemens-energy]] — Siemens Energy (ENR GR) appears in the report as a concrete company expression of post-traumatic supply disorder, tying the name to the cyclical rebound framework built around industries that have already been through a severe supply-demand washout.
+- [[sims-ltd]] — Sims Ltd (SGM AU) appears in the report as a concrete company expression of all chips go to heaven, tying the name to the recycling and salvage angle created by AI-era hardware churn.
+- [[sims]] — Sims is framed as a recycler and IT asset-recovery business that can monetize the eventual turnover of AI servers, accelerators, storage, and memory-heavy datacenter hardware.
+- [[six-flags]] — Six Flags (FUN US) appears in the report as a concrete company expression of bread and circuses, tying the name to the view that lower-income relief and event spending can unlock selective consumer splurge behavior.
+- [[sofi]] — SoFi (SOFI US) appears in the report as a concrete company expression of post-traumatic supply disorder, tying the name to the cyclical rebound framework built around industries that have already been through a severe supply-demand washout.
+- [[southern-copper]] — Southern Copper appears as another direct copper beneficiary of the source’s underinvestment thesis, offering a cleaner commodity-specific expression of supply scarcity than a broader miner.
+- [[sports-gear]] — Sports Gear is highlighted as a Taiwanese cleated-footwear manufacturer with contract exposure to major global brands, making it a less obvious but operationally direct way to express incremental World Cup-related soccer demand.
+- [[sqm]] — SQM (SQM US) appears in the report as a concrete company expression of post-traumatic supply disorder, tying the name to the cyclical rebound framework built around industries that have already been through a severe supply-demand washout.
+- [[sumitomo-bakelite]] — Sumitomo Bakelite (4203 JP) appears in the report as a concrete company expression of ai materials, tying the name to the substrate, PCB, and specialty-material layer that quietly enables AI hardware scaling.
 - [[sweetgreen]] — Sweetgreen appears in the visual as a merchant beneficiary and as a business adjacent to restaurant automation and labor-productivity improvement.
-- [[synopsys-company]] — Synopsys is described as one half of the core EDA duopoly and as a strategic software toll collector on rising chip complexity, custom silicon proliferation,...
+- [[synchrony]] — Synchrony (SYF US) appears in the report as a concrete company expression of bread and circuses, tying the name to the view that lower-income relief and event spending can unlock selective consumer splurge behavior.
+- [[synopsys-company]] — Synopsys is described as one half of the core EDA duopoly and as a strategic software toll collector on rising chip complexity, custom silicon proliferation, and increasingly simulation-heavy design workflows.
+- [[taalas]] — Taalas appears in the report as a notable private or non-core-listed company linked to agentic utilities, making it relevant to the idea that always-on agents create a new software utility layer and new bottlenecks.
+- [[taiyo-hd]] — Taiyo HD (4626 JP) appears in the report as a concrete company expression of ai materials, tying the name to the substrate, PCB, and specialty-material layer that quietly enables AI hardware scaling.
 - [[telecom-italia]] — Telecom Italia appears in the levered-duration sleeve as a debt-heavy European telecom expression of the macro divergence trade.
 - [[textron]] — Textron appears in the New Shipbuilders sleeve as an aerospace-and-industrial manufacturing beneficiary of broader space-supply-chain investment.
-- [[thyssenkrupp-marine-systems]] — Thyssenkrupp Marine Systems appears as a relatively pure-play shipbuilding and naval-capacity beneficiary within the source’s argument that strategic maritim...
+- [[tfi-international]] — TFI International (TFII US) appears in the report as a concrete company expression of post-traumatic supply disorder, tying the name to the cyclical rebound framework built around industries that have already been through a severe supply-demand washout.
+- [[thyssenkrupp-marine-systems]] — Thyssenkrupp Marine Systems appears as a relatively pure-play shipbuilding and naval-capacity beneficiary within the source’s argument that strategic maritime industrial capacity is becoming scarce and newly valuable again.
+- [[tianqi]] — Tianqi Lithium (9696 HK) appears in the report as a concrete company expression of post-traumatic supply disorder, tying the name to the cyclical rebound framework built around industries that have already been through a severe supply-demand washout.
 - [[toll-brothers]] — Toll Brothers appears in the US refi basket as a higher-end homebuilder beneficiary of improved financing conditions.
+- [[topoint-technology]] — ToPoint Technology (8021 TT) appears in the report as a concrete company expression of ai materials, tying the name to the substrate, PCB, and specialty-material layer that quietly enables AI hardware scaling.
+- [[ttmi-technologies]] — TTMI Technologies (TTMI US) appears in the report as a concrete company expression of ai materials, tying the name to the substrate, PCB, and specialty-material layer that quietly enables AI hardware scaling.
 - [[tui]] — TUI appears under cyclical/project names in the Europe sleeve, making it a travel-sensitive and financing-sensitive expression of the macro divergence trade.
 - [[unibail-rodamco-westfield]] — Unibail-Rodamco-Westfield appears in the EU levered property sleeve as a financing-sensitive real-estate expression of the macro divergence trade.
-- [[united-airlines]] — United Airlines is grouped with Delta as a favored carrier that could enjoy incremental benefit from elevated international and event-driven travel demand du...
+- [[united-airlines]] — United Airlines is grouped with Delta as a favored carrier that could enjoy incremental benefit from elevated international and event-driven travel demand during the World Cup period.
+- [[unitedhealth]] — UnitedHealth (UNH US) appears in the report as a concrete company expression of conditional on gop losing, tying the name to the managed-care and health-policy setup tied to a weaker Republican outcome.
 - [[upbound-group]] — Upbound Group appears in the existing live sleeve as a lease-to-own and alternative-consumer-finance expression of the earned-wage-access and liquidity theme.
-- [[valvoline]] — Valvoline is treated as an unusual marketing-arbitrage beneficiary of the World Cup because Saudi Aramco’s sponsorship of the tournament can amplify the Valv...
-- [[veeco]] — Veeco is treated as an enabling tool vendor for advanced materials and photonics-related manufacturing steps that investors may overlook versus higher-profil...
+- [[valvoline]] — Valvoline is treated as an unusual marketing-arbitrage beneficiary of the World Cup because Saudi Aramco’s sponsorship of the tournament can amplify the Valvoline brand at effectively no cost to the company after the prior sale of its branded oil-products business.
+- [[veeco]] — Veeco is treated as an enabling tool vendor for advanced materials and photonics-related manufacturing steps that investors may overlook versus higher-profile chip designers.
+- [[victory-giant]] — Victory Giant (300476 CH) appears in the report as a concrete company expression of ai materials, tying the name to the substrate, PCB, and specialty-material layer that quietly enables AI hardware scaling.
 - [[vonovia]] — Vonovia appears as one of the marquee European property names exposed to a hawkish-ECB relative setup.
 - [[voyager-technologies]] — Voyager appears in the space-traffic-control sleeve as part of the coordination and infrastructure layer around scaled orbital activity.
-- [[wartsila]] — Wärtsilä appears in the shipbuilding basket as a marine power and systems supplier, broadening the thesis into propulsion, engines, and vessel efficiency lay...
+- [[voyager]] — Voyager Technologies (VOYG US) appears in the report as a concrete company expression of orbital manufacturing, tying the name to the moonshot thesis around in-space manufacturing and the supporting space-industrial stack.
+- [[warby-parker]] — Warby Parker (WRBY US) appears in the report as a concrete company expression of bread and circuses, tying the name to the view that lower-income relief and event spending can unlock selective consumer splurge behavior.
+- [[wartsila]] — Wärtsilä appears in the shipbuilding basket as a marine power and systems supplier, broadening the thesis into propulsion, engines, and vessel efficiency layers.
+- [[waterstone-financial]] — Waterstone Financial (WSBF US) appears in the report as a concrete company expression of rate sensitive regional banks, tying the name to the rate-driven recovery thesis for smaller banks and related financial beneficiaries.
+- [[waymo]] — Waymo appears in the report as a notable private or non-core-listed company linked to next gen autonomous, making it relevant to the autonomy stack spanning EV challengers, robotaxi enablement, and adjacent manufacturing partners.
 - [[wdp]] — WDP appears in the EU levered property basket as a listed property vehicle exposed to the persistence of higher European rates.
+- [[western-digital]] — Western Digital (WDC US) appears in the report as a concrete company expression of post-traumatic supply disorder, tying the name to the cyclical rebound framework built around industries that have already been through a severe supply-demand washout.
 - [[western-union]] — Western Union appears as an adjacent household-liquidity rail in the basket, reflecting how cash pressure can support transaction and remittance-like channels.
-- [[wolfspeed]] — Wolfspeed is used as the flagship wide-bandgap case study: a battered silicon-carbide specialist whose EV-driven overbuild may become strategically useful ag...
+- [[whirlpool]] — Whirlpool (WHR US) appears in the report as a concrete company expression of bread and circuses, tying the name to the view that lower-income relief and event spending can unlock selective consumer splurge behavior.
+- [[wolfspeed]] — Wolfspeed is used as the flagship wide-bandgap case study: a battered silicon-carbide specialist whose EV-driven overbuild may become strategically useful again as AI data centers move toward higher-voltage power architectures.
 - [[world-acceptance]] — World Acceptance appears in the basket as a small-installment non-prime lender that can benefit when lower-income liquidity pressure remains elevated.
 - [[wpp]] — WPP is framed as a depressed global advertising holdco with upside from both election-cycle media demand and AI-driven internal efficiency gains.
+- [[xpeng]] — Xpeng (XPEV US) appears in the report as a concrete company expression of next gen autonomous, tying the name to the autonomy stack spanning EV challengers, robotaxi enablement, and adjacent manufacturing partners.
+- [[xpo]] — XPO (XPO US) appears in the report as a concrete company expression of post-traumatic supply disorder, tying the name to the cyclical rebound framework built around industries that have already been through a severe supply-demand washout.
+- [[yeti]] — Yeti (YETI US) appears in the report as a concrete company expression of bread and circuses, tying the name to the view that lower-income relief and event spending can unlock selective consumer splurge behavior.
+- [[zeekr]] — Zeekr (ZK US) appears in the report as a concrete company expression of next gen autonomous, tying the name to the autonomy stack spanning EV challengers, robotaxi enablement, and adjacent manufacturing partners.
 - [[zillow-group]] — Zillow Group appears in the basket as a housing marketplace and data-platform beneficiary of better turnover and refinancing engagement.
+- [[zto-express]] — ZTO Express (ZTO US) appears in the report as a concrete company expression of china trades, tying the name to the basket of anti-involution, logistics, property-service, lifestyle, and domestic-tech names tied to a changing China setup.
 ## Concepts
-- [[advanced-packaging]] — This thesis treats advanced packaging as a durable AI bottleneck rather than a commodity backend step. As model sizes, HBM demand, and interconnect density r...
-- [[agentic-utilities]] — This framework treats the agentic internet as a new utility layer spanning infrastructure, ecosystem, and governance. The idea is that always-on agents creat...
-- [[ai-and-agentic-stack]] — This is the parent organizing layer for the wiki’s AI complex. It groups together the physical bottlenecks, deployment economics, and software-utility layers...
-- [[ai-materials]] — This theme argues that AI demand should increasingly accrue to upstream material suppliers rather than only to obvious chip and server winners. As compute, p...
-- [[ai-power-supply-chain-inheritance]] — This thesis argues that next-generation AI data-center power architecture is inheriting capacity, know-how, and cost curves originally built for EVs and sola...
-- [[all-chips-go-to-heaven]] — This section highlights the downstream cleanup economy created by AI hardware churn. As hyperscalers and enterprises cycle through ever-larger fleets of acce...
-- [[biotech-platform-trades]] — This parent bucket groups the corpus’s biotech concepts under a shared lens: not one-off drug events, but repeatable platform logic around validated biology,...
-- [[bread-and-circuses]] — This trade looks at how unusually large tax refunds and lower-end consumer cash pulses can briefly redirect spending into simple discretionary outlets. The t...
-- [[bullshit-jobs]] — This trade argues that AI will compress bloated white-collar organizations by automating layers of coordination, reporting, and low-value administrative work...
-- [[china-trades]] — This framework stays constructive on China despite weak domestic sentiment, focusing on industries where policy is shifting toward profit discipline and nati...
-- [[consumer-behavior-and-demand-routing]] — This third-layer bucket groups trades where the key question is how consumer cash, attention, aspiration, and convenience get routed through the economy. It...
-- [[consumer-wallet-and-attention]] — This parent bucket groups trades that depend on how constrained consumers allocate cash, attention, aspiration, and convenience. It sits one level above the...
-- [[earned-wage-access]] — This section argues that household cash-flow stress creates fertile ground for earned-wage-access products and related financial tools. The uploaded PDF show...
-- [[fat-redistribution]] — This biotech thesis centers on INHBE as a metabolic target that may improve fat distribution and related health markers. The trade looks for companies pursui...
-- [[geopolitical-special-situations]] — This section looks for equity expressions of possible geopolitical normalization or regime change, especially where markets still discount extreme outcomes....
-- [[gop-loses-the-house]] — This policy framework starts from a midterm base case: the Republican Party loses the House in 2026. The trade value comes from identifying sectors where mar...
-- [[inference-on-device]] — This thesis argues that always-on agentic usage, latency sensitivity, privacy, and falling hardware costs create a strong case for inference shifting partly...
-- [[insurance-marketing]] — This thesis argues that excess profitability in auto insurance will eventually recycle into customer acquisition and advertising spend. Lead-generation and m...
-- [[kicking-the-tires]] — This theme treats tires as an overlooked old-economy beneficiary of EVs and autonomous fleets. Heavier vehicles, different usage patterns, and higher fleet i...
-- [[midterm-media-spend]] — This trade focuses on the advertising, broadcaster, polling, and data beneficiaries of a high-stakes 2026 election cycle. If control of Congress is contested...
-- [[next-gen-autonomous]] — This trade focuses on the next commercial phase of autonomy, where the user increasingly experiences the service brand rather than the underlying auto OEM. I...
-- [[oncologys-copy-paste-era]] — This section argues that oncology is becoming less about discovering entirely novel biology and more about iterating on already-validated modalities and targ...
-- [[orbital-manufacturing]] — This moonshot idea examines whether high-value materials or components can eventually be manufactured more efficiently in orbit than on Earth. The uploaded P...
-- [[photonics-cpo-supply-chain]] — This thesis extends the earlier optics trade into photonic integrated circuits (PICs), co-packaged optics (CPO), substrates, and equipment. The core claim is...
-- [[policy-rates-and-geopolitics]] — This is the parent layer for trades whose main driver is regime change rather than product adoption. It groups ideas where valuation depends primarily on ele...
-- [[post-traumatic-supply-disorder]] — This framework looks for industries still psychologically and financially scarred by prior busts, where underinvestment has left supply too tight for the nex...
-- [[rate-sensitive-regional-banks]] — This trade looks for small-cap financials with disproportionate upside to rate cuts, funding relief, or a more favorable yield backdrop. The memo frames cert...
-- [[regime-policy-and-scarcity]] — This third-layer bucket groups trades where re-rating depends on regime shifts, macro policy, strategic posture, or the market rediscovering scarce physical...
-- [[research-navigation]] — This is the third-layer entry point for the wiki. It sits above the second-layer parent concepts and organizes the whole corpus into a small number of meta-r...
-- [[shipbuilding]] — This theme argues that naval and maritime industrial capacity is becoming strategically important again as defense priorities broaden beyond software and mis...
-- [[slop-bowl-economics]] — This section examines how fast-casual and value-focused food chains respond to pressured consumers and rising labor intensity. The uploaded PDF turns the ide...
-- [[strategic-industrial-capacity]] — This parent bucket groups trades that revolve around scarce physical capacity the market may have underpriced: shipyards, launch/logistics systems, commodity...
-- [[structural-platforms-and-stacks]] — This third-layer bucket groups themes where value accrues through durable technical platforms, reusable stacks, and compounding infrastructure rather than sh...
-- [[the-girlfriend-index]] — This framework uses female consumer cultural momentum as an investing signal. It looks for brands and products where social behavior, aesthetics, and purchas...
+- [[advanced-packaging]] — This thesis treats advanced packaging as a durable AI bottleneck rather than a commodity backend step.
+- [[agentic-utilities]] — This framework treats the agentic internet as a new utility layer spanning infrastructure, ecosystem, and governance.
+- [[ai-and-agentic-stack]] — This is the parent organizing layer for the wiki’s AI complex.
+- [[ai-materials]] — This theme argues that AI demand should increasingly accrue to upstream material suppliers rather than only to obvious chip and server winners.
+- [[ai-power-supply-chain-inheritance]] — This thesis argues that next-generation AI data-center power architecture is inheriting capacity, know-how, and cost curves originally built for EVs and solar.
+- [[all-chips-go-to-heaven]] — This section highlights the downstream cleanup economy created by AI hardware churn.
+- [[biotech-platform-trades]] — This parent bucket groups the corpus’s biotech concepts under a shared lens: not one-off drug events, but repeatable platform logic around validated biology, reusable modalities, and template-driven iteration.
+- [[bread-and-circuses]] — This trade looks at how unusually large tax refunds and lower-end consumer cash pulses can briefly redirect spending into simple discretionary outlets.
+- [[bullshit-jobs]] — This trade argues that AI will compress bloated white-collar organizations by automating layers of coordination, reporting, and low-value administrative work.
+- [[china-trades]] — This framework stays constructive on China despite weak domestic sentiment, focusing on industries where policy is shifting toward profit discipline and national competitiveness.
+- [[consumer-behavior-and-demand-routing]] — This third-layer bucket groups trades where the key question is how consumer cash, attention, aspiration, and convenience get routed through the economy.
+- [[consumer-wallet-and-attention]] — This parent bucket groups trades that depend on how constrained consumers allocate cash, attention, aspiration, and convenience.
+- [[earned-wage-access]] — This section argues that household cash-flow stress creates fertile ground for earned-wage-access products and related financial tools.
+- [[fat-redistribution]] — This biotech thesis centers on INHBE as a metabolic target that may improve fat distribution and related health markers.
+- [[geopolitical-special-situations]] — This section looks for equity expressions of possible geopolitical normalization or regime change, especially where markets still discount extreme outcomes.
+- [[gop-loses-the-house]] — This policy framework starts from a midterm base case: the Republican Party loses the House in 2026.
+- [[inference-on-device]] — This thesis argues that always-on agentic usage, latency sensitivity, privacy, and falling hardware costs create a strong case for inference shifting partly from centralized clouds toward local devices and edge endpoints.
+- [[insurance-marketing]] — This thesis argues that excess profitability in auto insurance will eventually recycle into customer acquisition and advertising spend.
+- [[kicking-the-tires]] — This theme treats tires as an overlooked old-economy beneficiary of EVs and autonomous fleets.
+- [[midterm-media-spend]] — This trade focuses on the advertising, broadcaster, polling, and data beneficiaries of a high-stakes 2026 election cycle.
+- [[next-gen-autonomous]] — This trade focuses on the next commercial phase of autonomy, where the user increasingly experiences the service brand rather than the underlying auto OEM.
+- [[oncologys-copy-paste-era]] — This section argues that oncology is becoming less about discovering entirely novel biology and more about iterating on already-validated modalities and targets.
+- [[orbital-manufacturing]] — This moonshot idea examines whether high-value materials or components can eventually be manufactured more efficiently in orbit than on Earth.
+- [[photonics-cpo-supply-chain]] — This thesis extends the earlier optics trade into photonic integrated circuits (PICs), co-packaged optics (CPO), substrates, and equipment.
+- [[policy-rates-and-geopolitics]] — This is the parent layer for trades whose main driver is regime change rather than product adoption.
+- [[post-traumatic-supply-disorder]] — This framework looks for industries still psychologically and financially scarred by prior busts, where underinvestment has left supply too tight for the next upcycle.
+- [[rate-sensitive-regional-banks]] — This trade looks for small-cap financials with disproportionate upside to rate cuts, funding relief, or a more favorable yield backdrop.
+- [[regime-policy-and-scarcity]] — This third-layer bucket groups trades where re-rating depends on regime shifts, macro policy, strategic posture, or the market rediscovering scarce physical capacity.
+- [[research-navigation]] — This is the third-layer entry point for the wiki.
+- [[shipbuilding]] — This theme argues that naval and maritime industrial capacity is becoming strategically important again as defense priorities broaden beyond software and missiles.
+- [[slop-bowl-economics]] — This section examines how fast-casual and value-focused food chains respond to pressured consumers and rising labor intensity.
+- [[strategic-industrial-capacity]] — This parent bucket groups trades that revolve around scarce physical capacity the market may have underpriced: shipyards, launch/logistics systems, commodity and transport supply, fleet wear, and other hard-to-rebuild industrial bottlenecks.
+- [[structural-platforms-and-stacks]] — This third-layer bucket groups themes where value accrues through durable technical platforms, reusable stacks, and compounding infrastructure rather than short-lived macro triggers.
+- [[the-girlfriend-index]] — This framework uses female consumer cultural momentum as an investing signal.
 ## Summaries
-- [[26-trades-for-2026]] — This source is a broad annual watchlist spanning AI, policy, financials, global macro, robotics, biotech, consumer, pair trades, and moonshots. The uploaded...
-- [[acm-research]] — This single-name section presents ACM Research as a way to play China’s domestic semiconductor-capex push. The thesis builds on the broader view that local e...
-- [[conditional-on-gop-losing]] — This is a specific expression of the House-flip thesis centered on Medicaid managed care, especially [[molina-healthcare]], with [[centene]] and [[oscar-heal...
-- [[dovish-fed-hawkish-ecb]] — This section explores a rare policy divergence scenario in which the Fed eases faster than the ECB. The uploaded PDF turns that macro view into a much more c...
-- [[jumia]] — This section revisits Jumia as a high-risk, high-optionalitiy African e-commerce platform with MELI-style narrative potential. The bet is on improving execut...
-- [[long-boeing-short-airbus]] — This pair trade argues that Boeing’s operational base is so depressed that even partial normalization can create asymmetric upside, while Airbus carries high...
-- [[long-cocoa]] — This macro trade leans into the possibility that tight cocoa fundamentals and strong trend behavior continue longer than investors assume. It treats the comm...
-- [[long-european-utilities]] — This trade ties European utilities to gas, LNG, and regional power-market dynamics rather than to a simple defensive-equity narrative. The setup depends on c...
-- [[long-indonesia-short-vietnam]] — This is a relative-value emerging-markets trade that bets on reversion between two well-known regional stories. The memo treats it as a cleaner way to expres...
-- [[nerdwallet]] — This section treats NerdWallet as a more diversified way to express the insurance-marketing and lead-gen cycle. Its broader consumer-finance marketplace expo...
-- [[saylors-bluff]] — This trade separates the Bitcoin asset from the corporate-finance wrapper built around it. The setup looks for a disconnect between direct BTC exposure and t...
-- [[synopsys]] — This single-name idea treats Synopsys as a fortress EDA and semiconductor-design platform with strategic pricing power. As chip complexity rises and more cus...
-- [[world-cup]] — This trade maps the 2026 World Cup into lodging, logistics, retail, sports equipment, sponsorship spillovers, and venue security across host markets. The opp...
-- [[wpp-not-dead-yet]] — This turnaround thesis frames WPP as a laggard where AI-driven efficiency and election-linked media spending can both improve the story. Investors may be pay...
-## Comparisons
-## Queries
+- [[26-trades-for-2026]] — This source is a broad annual watchlist spanning AI, policy, financials, global macro, robotics, biotech, consumer, pair trades, and moonshots.
+- [[acm-research]] — This single-name section presents ACM Research as a way to play China’s domestic semiconductor-capex push.
+- [[conditional-on-gop-losing]] — This is a specific expression of the House-flip thesis centered on Medicaid managed care, especially [[molina-healthcare]], with [[centene]] and [[oscar-health]] as lower-conviction or higher-beta basket additions.
+- [[dovish-fed-hawkish-ecb]] — This section explores a rare policy divergence scenario in which the Fed eases faster than the ECB.
+- [[jumia]] — This section revisits Jumia as a high-risk, high-optionalitiy African e-commerce platform with MELI-style narrative potential.
+- [[long-boeing-short-airbus]] — This pair trade argues that Boeing’s operational base is so depressed that even partial normalization can create asymmetric upside, while Airbus carries higher expectations.
+- [[long-cocoa]] — This macro trade leans into the possibility that tight cocoa fundamentals and strong trend behavior continue longer than investors assume.
+- [[long-european-utilities]] — This trade ties European utilities to gas, LNG, and regional power-market dynamics rather than to a simple defensive-equity narrative.
+- [[long-indonesia-short-vietnam]] — This is a relative-value emerging-markets trade that bets on reversion between two well-known regional stories.
+- [[nerdwallet]] — This section treats NerdWallet as a more diversified way to express the insurance-marketing and lead-gen cycle.
+- [[saylors-bluff]] — This trade separates the Bitcoin asset from the corporate-finance wrapper built around it.
+- [[synopsys]] — This single-name idea treats Synopsys as a fortress EDA and semiconductor-design platform with strategic pricing power.
+- [[world-cup]] — This trade maps the 2026 World Cup into lodging, logistics, retail, sports equipment, sponsorship spillovers, and venue security across host markets.
+- [[wpp-not-dead-yet]] — This turnaround thesis frames WPP as a laggard where AI-driven efficiency and election-linked media spending can both improve the story.

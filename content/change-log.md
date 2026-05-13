@@ -410,3 +410,98 @@ publish: true
   - Lattice had appeared in the Citrindex constituent dump for the inference-on-device basket but had not been promoted during the earlier entity pass.
   - Added the entity and linked it from the owning concept so the basket implementation is now explicit in the knowledge graph.
   - Total tracked pages increased to 185.
+
+## [2026-05-13] enrich | Completed entity coverage pass for 26 Trades for 2026
+- Wiki pages created:
+  - entities/accenture.md
+  - entities/capgemini.md
+  - entities/bt-group.md
+  - entities/ch-robinson.md
+  - entities/western-digital.md
+  - entities/siemens-energy.md
+  - entities/sqm.md
+  - entities/tianqi.md
+  - entities/albemarle.md
+  - entities/ganfeng.md
+  - entities/jb-hunt.md
+  - entities/knight-swift.md
+  - entities/tfi-international.md
+  - entities/xpo.md
+  - entities/guardant-health.md
+  - entities/applovin.md
+  - entities/lemonade.md
+  - entities/robinhood.md
+  - entities/sofi.md
+  - entities/mediatek.md
+  - entities/sims-ltd.md
+  - entities/kulicke-and-soffa.md
+  - entities/be-semi.md
+  - entities/victory-giant.md
+  - entities/isu-petasys.md
+  - entities/celestica.md
+  - entities/yeti.md
+  - entities/brp-inc.md
+  - entities/dave-and-buster.md
+  - entities/live-nation.md
+  - entities/six-flags.md
+  - entities/rci-hospitality.md
+  - entities/whirlpool.md
+  - entities/lithia-motors.md
+  - entities/national-vision-holdings.md
+  - entities/warby-parker.md
+  - entities/credit-acceptance.md
+  - entities/synchrony.md
+  - entities/capital-one.md
+  - entities/op-bancorp.md
+  - entities/waterstone-financial.md
+  - entities/kearny-financial.md
+  - entities/catl.md
+  - entities/jinmao-property-services.md
+  - entities/c-and-d-property-management.md
+  - entities/luckin-coffee.md
+  - entities/atour-lifestyle-holdings.md
+  - entities/h-world-group.md
+  - entities/moore-threads.md
+  - entities/byd.md
+  - entities/zto-express.md
+  - entities/metax.md
+  - entities/fortum.md
+  - entities/rwe.md
+  - entities/circus-se.md
+  - entities/miso-robotics.md
+  - entities/hyphen.md
+  - entities/geely-auto-holdings.md
+  - entities/magna.md
+  - entities/waymo.md
+  - entities/zeekr.md
+  - entities/xpeng.md
+  - entities/lvmh.md
+  - entities/ralph-lauren.md
+  - entities/richemont.md
+  - entities/amer-sports.md
+  - entities/prada-group.md
+  - entities/taalas.md
+  - entities/ipsos.md
+  - entities/kanto-denka-kogyo.md
+  - entities/agc.md
+  - entities/asahi-kasei.md
+  - entities/mitsubishi-gas-chemical.md
+  - entities/sumitomo-bakelite.md
+  - entities/namics.md
+  - entities/furukawa-electric.md
+  - entities/taiyo-hd.md
+  - entities/molina.md
+  - entities/oscar.md
+  - entities/unitedhealth.md
+  - entities/humana.md
+  - entities/graham.md
+  - entities/mitsubishi-heavy.md
+  - entities/china-mengniu-dairy.md
+  - entities/intel.md
+  - entities/mentor.md
+  - entities/voyager.md
+- Wiki pages updated:
+  - index.md
+- Notes:
+  - Added the remaining report- and graphics-derived entities that were still missing from the 26 Trades for 2026 entity layer.
+  - Each new entity page now points back to its owning concept or summary and to [[26-trades-for-2026]].
