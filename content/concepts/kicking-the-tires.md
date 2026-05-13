@@ -1,7 +1,7 @@
 ---
 title: Kicking the Tires
 created: 2026-05-12
-updated: '2026-05-12'
+updated: '2026-05-13'
 type: concept
 tags: [public-equities, thesis]
 sources: [raw/articles/26-trades-for-2026-pdf-extract.md]
@@ -16,6 +16,9 @@ This theme treats tires as an overlooked old-economy beneficiary of EVs and auto
 ## Key angles
 - exposure
 - Basket
+
+## Second-layer classification
+- Primary/adjacent parent: [[strategic-industrial-capacity]] — Fleet wear and replacement economics in a physical-systems trade.
 
 ## Related pages
 - [[goodyear-tire-rubber]]

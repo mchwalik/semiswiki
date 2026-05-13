@@ -1,7 +1,7 @@
 ---
 title: AI Power Supply-Chain Inheritance
 created: 2026-05-12
-updated: 2026-05-12
+updated: '2026-05-13'
 type: concept
 tags: [ai-infrastructure, semiconductors, power, supply-chain, thesis, public-equities]
 sources: [raw/articles/semis-memo-supply-chain.md]
@@ -21,6 +21,9 @@ This thesis argues that next-generation AI data-center power architecture is inh
 - SiC is favored in front-end conversion and GaN in high-frequency downstream conversion.
 - Solid-state transformers could become a new bottleneck and upside vector.
 - VRM content per GPU keeps rising with higher TDP and current density.
+
+## Second-layer classification
+- Primary/adjacent parent: [[ai-and-agentic-stack]] — Power-delivery layer for AI compute scaling.
 
 ## Related pages
 - [[nvidia]] anchors the 800V roadmap and rack-power transition.

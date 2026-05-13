@@ -1,7 +1,7 @@
 ---
 title: All Chips Go to Heaven
 created: 2026-05-12
-updated: 2026-05-12
+updated: '2026-05-13'
 type: concept
 tags: [semiconductors, public-equities, thesis]
 sources: [raw/articles/26-trades-for-2026-pdf-extract.md]
@@ -15,6 +15,9 @@ This section highlights the downstream cleanup economy created by AI hardware ch
 
 ## Notable expressions
 - SGM AU
+
+## Second-layer classification
+- Primary/adjacent parent: [[ai-and-agentic-stack]] — Downstream reuse and recycling sleeve of the AI hardware cycle.
 
 ## Related pages
 - [[sims]]

@@ -1,7 +1,7 @@
 ---
 title: Insurance Marketing
 created: 2026-05-12
-updated: 2026-05-12
+updated: '2026-05-13'
 type: concept
 tags: [public-equities, thesis]
 sources: [raw/articles/26-trades-for-2026-pdf-extract.md]
@@ -20,7 +20,13 @@ This thesis argues that excess profitability in auto insurance will eventually r
 ## Notable expressions
 - EVER US, MAX US, PGR US, QNST US, TREE US
 
+## Second-layer classification
+- Primary/adjacent parent: [[consumer-wallet-and-attention]] — Advertising and lead-generation monetize competitive pressure around household insurance spend rather than broad consumer strength.
+- Primary/adjacent parent: [[policy-rates-and-geopolitics]] — The setup is still regime-sensitive because insurance profitability cycles and rate conditions influence when carriers restart acquisition spending.
+
 ## Related pages
+- [[consumer-wallet-and-attention]]
+- [[policy-rates-and-geopolitics]]
 - [[nerdwallet]]
 - [[nerdwallet-company]]
 - [[26-trades-for-2026]]

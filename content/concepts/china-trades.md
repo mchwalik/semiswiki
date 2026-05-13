@@ -1,7 +1,7 @@
 ---
 title: China Trades
 created: 2026-05-12
-updated: '2026-05-12'
+updated: '2026-05-13'
 type: concept
 tags: [public-equities, semiconductors, thesis]
 sources: [raw/articles/26-trades-for-2026-pdf-extract.md, raw/articles/26-trades-for-2026-citrindex.md]
@@ -26,6 +26,10 @@ This framework stays constructive on China despite weak domestic sentiment, focu
 ## Citrindex basket constituents
 - The Citrindex basket is more diversified than the earlier summary alone suggested, including China Jinmao, CATL, ZTO Express, C&D Property Management, BYD, H World, SF Holding, Poly Property Services, Atour, and XPeng.
 - That basket lines up with the memo's anti-involution framing by mixing housing, batteries, logistics, travel, property services, and EV-related names rather than expressing China only through semiconductors.
+
+## Second-layer classification
+- Primary/adjacent parent: [[policy-rates-and-geopolitics]] — National policy discipline and regime path are central to the setup.
+- Primary/adjacent parent: [[strategic-industrial-capacity]] — Some sleeves also express strategic-industry repricing.
 
 ## Related pages
 - [[acm-research]]

@@ -1,7 +1,7 @@
 ---
 title: Post-Traumatic Supply Disorder
 created: 2026-05-12
-updated: '2026-05-12'
+updated: '2026-05-13'
 type: concept
 tags: [public-equities, supply-chain, thesis]
 sources: [raw/articles/26-trades-for-2026-pdf-extract.md, raw/articles/26-trades-for-2026-citrindex.md]
@@ -30,6 +30,9 @@ This framework looks for industries still psychologically and financially scarre
 - Copper sleeve: [[bhp-group]], [[freeport-mcmoran]], [[antofagasta]], and [[southern-copper]].
 - Trucking sleeve: XPO, TFI International, Old Dominion, J.B. Hunt, Knight-Swift, and C.H. Robinson.
 - This matters because the concept page can now distinguish between the high-level PTSD framework and the actual sleeves Citrini appears to use to express it in practice.
+
+## Second-layer classification
+- Primary/adjacent parent: [[strategic-industrial-capacity]] — Cross-asset screen for underbuilt physical capacity.
 
 ## Related pages
 - [[26-trades-for-2026]]

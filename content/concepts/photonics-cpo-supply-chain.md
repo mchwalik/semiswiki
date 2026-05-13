@@ -1,7 +1,7 @@
 ---
 title: Photonics and CPO Supply Chain
 created: 2026-05-12
-updated: 2026-05-12
+updated: '2026-05-13'
 type: concept
 tags: [ai-infrastructure, photonics, optics, semiconductors, supply-chain, thesis, public-equities]
 sources: [raw/articles/let-there-be-light.md]
@@ -21,6 +21,9 @@ This thesis extends the earlier optics trade into photonic integrated circuits (
 - TSMC's COUPE platform is a central reference point for silicon-photonics packaging.
 - Upstream winners may include bonding, SOI, MOCVD, InP, and FAU/laser-adjacent suppliers such as [[aixtron]], [[veeco]], [[lumentum]], and [[applied-optoelectronics]].
 - Himax is highlighted as an asymmetric single-stock angle tied to FAU optics and possibly smart glasses.
+
+## Second-layer classification
+- Primary/adjacent parent: [[ai-and-agentic-stack]] — Bandwidth and optics bottleneck inside AI scaling.
 
 ## Related pages
 - [[himax]] is the memo's flagship single-stock highlight.

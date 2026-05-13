@@ -1,7 +1,7 @@
 ---
 title: Geopolitical Special Situations
 created: 2026-05-12
-updated: 2026-05-12
+updated: '2026-05-13'
 type: concept
 tags: [public-equities, thesis]
 sources: [raw/articles/26-trades-for-2026-pdf-extract.md]
@@ -20,6 +20,10 @@ This section looks for equity expressions of possible geopolitical normalization
 
 ## Notable expressions
 - RBI AV
+
+## Second-layer classification
+- Primary/adjacent parent: [[policy-rates-and-geopolitics]] — Direct geopolitical repricing bucket.
+- Primary/adjacent parent: [[strategic-industrial-capacity]] — Often overlaps with defense and industrial-capacity repricing.
 
 ## Related pages
 - [[shipbuilding]]

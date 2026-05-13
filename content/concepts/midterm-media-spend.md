@@ -1,7 +1,7 @@
 ---
 title: Midterm Media Spend
 created: 2026-05-12
-updated: 2026-05-12
+updated: '2026-05-13'
 type: concept
 tags: [public-equities, thesis]
 sources: [raw/articles/26-trades-for-2026-pdf-extract.md]
@@ -18,6 +18,9 @@ This trade focuses on the advertising, broadcaster, polling, and data beneficiar
 - Broadcasters
 - Polling and Data
 - Concluding Thoughts
+
+## Second-layer classification
+- Primary/adjacent parent: [[policy-rates-and-geopolitics]] — Election-spending expression of the policy regime tree.
 
 ## Related pages
 - [[gop-loses-the-house]]

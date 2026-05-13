@@ -239,3 +239,174 @@ publish: true
   - Extracted four external image URLs from the markdown version of 26 Trades for 2026 and reviewed them for additional concrete names.
   - Most images were cover art, scorecard, or table-of-contents material; the actionable non-Citrindex additions were concentrated in the World Cup sleeve already present in the raw text.
   - Total tracked pages increased to 95.
+
+## [2026-05-13] rebuild | Full uploaded-PDF pass for 26 Trades concepts and entities
+- Raw source created:
+  - raw/articles/26-trades-for-2026-uploaded-pdf-graphics.md
+- Wiki pages created:
+  - entities/general-dynamics.md
+  - entities/huntington-ingalls.md
+  - entities/esco-technologies.md
+  - entities/conrad-shipyards.md
+  - entities/austal.md
+  - entities/graham-corporation.md
+  - entities/furuno.md
+  - entities/chugoku-marine-paints.md
+  - entities/rolls-royce.md
+  - entities/bwx-technologies.md
+  - entities/mitsubishi-heavy-industries.md
+  - entities/fincantieri.md
+  - entities/wartsila.md
+  - entities/hensoldt.md
+  - entities/kongsberg-gruppen.md
+  - entities/hd-hyundai-heavy-industries.md
+  - entities/hanwha-ocean.md
+  - entities/samsung-heavy-industries.md
+  - entities/gendigital.md
+  - entities/dayforce.md
+  - entities/automatic-data-processing.md
+  - entities/paylocity.md
+  - entities/paycom.md
+  - entities/firstcash-holdings.md
+  - entities/ezcorp.md
+  - entities/enova-international.md
+  - entities/world-acceptance.md
+  - entities/onemain-holdings.md
+  - entities/prog-holdings.md
+  - entities/green-dot.md
+  - entities/western-union.md
+  - entities/block.md
+  - entities/upbound-group.md
+  - entities/chipotle-mexican-grill.md
+  - entities/cava-group.md
+  - entities/sweetgreen.md
+  - entities/middleby.md
+  - entities/fanuc.md
+  - entities/compass-group.md
+  - entities/rockwell-automation.md
+  - entities/redwire.md
+  - entities/avio.md
+  - entities/rocket-lab.md
+  - entities/mda.md
+  - entities/intuitive-machines.md
+  - entities/leidos.md
+  - entities/voyager-technologies.md
+  - entities/hexcel.md
+  - entities/textron.md
+  - entities/mercury-systems.md
+  - entities/northrop-grumman.md
+  - entities/l3harris-technologies.md
+  - entities/d-r-horton.md
+  - entities/lennar.md
+  - entities/pultegroup.md
+  - entities/toll-brothers.md
+  - entities/pennymac-financial.md
+  - entities/rocket-companies.md
+  - entities/fidelity-national-financial.md
+  - entities/first-american-financial.md
+  - entities/pool-corporation.md
+  - entities/builders-firstsource.md
+  - entities/zillow-group.md
+  - entities/fortune-brands-innovations.md
+  - entities/cofinimmo.md
+  - entities/vonovia.md
+  - entities/unibail-rodamco-westfield.md
+  - entities/wdp.md
+  - entities/leg-immobilien.md
+  - entities/gecina.md
+  - entities/covivio.md
+  - entities/klepierre.md
+  - entities/merlin-properties.md
+  - entities/cellnex.md
+  - entities/telecom-italia.md
+  - entities/getlink.md
+  - entities/fraport.md
+  - entities/tui.md
+  - entities/alstom.md
+- Wiki pages updated:
+  - concepts/ai-materials.md
+  - concepts/shipbuilding.md
+  - concepts/earned-wage-access.md
+  - concepts/slop-bowl-economics.md
+  - concepts/orbital-manufacturing.md
+  - summaries/dovish-fed-hawkish-ecb.md
+  - summaries/26-trades-for-2026.md
+  - index.md
+- Notes:
+  - Processed the user-uploaded original PDF and preserved basket/entity information that lived in graphics and tables, not just body text.
+  - Rebuilt the concept layer around AI materials, shipbuilding, earned wage access, slop bowl economics, orbital manufacturing, and the dovish Fed / hawkish ECB macro trade.
+  - Total tracked pages increased to 175.
+
+## [2026-05-13] taxonomy | Added second-layer concept organization
+- Wiki pages created:
+  - concepts/ai-and-agentic-stack.md
+  - concepts/consumer-wallet-and-attention.md
+  - concepts/policy-rates-and-geopolitics.md
+  - concepts/strategic-industrial-capacity.md
+  - concepts/biotech-platform-trades.md
+- Wiki pages updated:
+  - concepts/advanced-packaging.md
+  - concepts/ai-materials.md
+  - concepts/ai-power-supply-chain-inheritance.md
+  - concepts/all-chips-go-to-heaven.md
+  - concepts/agentic-utilities.md
+  - concepts/inference-on-device.md
+  - concepts/photonics-cpo-supply-chain.md
+  - concepts/bullshit-jobs.md
+  - concepts/bread-and-circuses.md
+  - concepts/earned-wage-access.md
+  - concepts/slop-bowl-economics.md
+  - concepts/the-girlfriend-index.md
+  - concepts/gop-loses-the-house.md
+  - concepts/midterm-media-spend.md
+  - concepts/rate-sensitive-regional-banks.md
+  - concepts/geopolitical-special-situations.md
+  - concepts/china-trades.md
+  - concepts/shipbuilding.md
+  - concepts/orbital-manufacturing.md
+  - concepts/post-traumatic-supply-disorder.md
+  - concepts/kicking-the-tires.md
+  - concepts/next-gen-autonomous.md
+  - concepts/fat-redistribution.md
+  - concepts/oncologys-copy-paste-era.md
+  - index.md
+- Notes:
+  - Added a parent taxonomy layer above the existing concept pages so the corpus is easier to navigate by regime, consumer behavior, AI stack, industrial bottlenecks, and biotech platform logic.
+  - Patched existing concept pages with a second-layer classification section linking each child concept to its parent bucket.
+  - Total tracked pages increased to 180.
+
+## [2026-05-13] taxonomy-fix | Classified Insurance Marketing in second-layer map
+- Wiki pages updated:
+  - concepts/insurance-marketing.md
+- Notes:
+  - Added second-layer classification links for Insurance Marketing after taxonomy verification uncovered it as the only unclassified legacy concept.
+  - Verified that all concept pages now carry second-layer classification and that broken wikilinks remain at zero.
+
+## [2026-05-13] taxonomy | Added third-layer concept map
+- Wiki pages created:
+  - concepts/research-navigation.md
+  - concepts/structural-platforms-and-stacks.md
+  - concepts/regime-policy-and-scarcity.md
+  - concepts/consumer-behavior-and-demand-routing.md
+- Wiki pages updated:
+  - concepts/ai-and-agentic-stack.md
+  - concepts/biotech-platform-trades.md
+  - concepts/policy-rates-and-geopolitics.md
+  - concepts/strategic-industrial-capacity.md
+  - concepts/consumer-wallet-and-attention.md
+  - index.md
+- Notes:
+  - Added a third-layer navigation map above the second-layer parent concepts so the corpus can be entered through a small number of meta-regimes.
+  - Patched all second-layer parent concepts with third-layer classification and linked them back to the top-level research navigation page.
+  - Total tracked pages increased to 184.
+
+## [2026-05-13] enrich | Added missing Lattice Semiconductor entity
+- Wiki pages created:
+  - entities/lattice-semiconductor.md
+- Wiki pages updated:
+  - concepts/inference-on-device.md
+  - index.md
+- Notes:
+  - Lattice had appeared in the Citrindex constituent dump for the inference-on-device basket but had not been promoted during the earlier entity pass.
+  - Added the entity and linked it from the owning concept so the basket implementation is now explicit in the knowledge graph.
+  - Total tracked pages increased to 185.

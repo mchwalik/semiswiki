@@ -1,7 +1,7 @@
 ---
 title: Bread and Circuses
 created: 2026-05-12
-updated: 2026-05-12
+updated: '2026-05-13'
 type: concept
 tags: [public-equities, thesis]
 sources: [raw/articles/26-trades-for-2026-pdf-extract.md]
@@ -15,6 +15,9 @@ This trade looks at how unusually large tax refunds and lower-end consumer cash 
 
 ## Notable expressions
 - ALGN US, ASO US, CACC US, COF US, DOO US, EYE US, FOXF US, FUN US
+
+## Second-layer classification
+- Primary/adjacent parent: [[consumer-wallet-and-attention]] — Tactical low-end spending pulse trade.
 
 ## Related pages
 - [[earned-wage-access]]

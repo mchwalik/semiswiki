@@ -1,7 +1,7 @@
 ---
 title: Bullshit Jobs
 created: 2026-05-12
-updated: 2026-05-12
+updated: '2026-05-13'
 type: concept
 tags: [public-equities, thesis]
 sources: [raw/articles/26-trades-for-2026-pdf-extract.md]
@@ -15,6 +15,9 @@ This trade argues that AI will compress bloated white-collar organizations by au
 
 ## Notable expressions
 - ACN US, CAP FP, CFLT US, CHRW US
+
+## Second-layer classification
+- Primary/adjacent parent: [[ai-and-agentic-stack]] — Application-layer labor compression thesis driven by agentic software.
 
 ## Related pages
 - [[26-trades-for-2026]]
