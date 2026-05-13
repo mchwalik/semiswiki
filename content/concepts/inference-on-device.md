@@ -1,10 +1,10 @@
 ---
 title: Inference on Device
 created: 2026-05-12
-updated: 2026-05-12
+updated: '2026-05-12'
 type: concept
 tags: [ai-infrastructure, semiconductors, thesis, public-equities]
-sources: [raw/articles/26-trades-for-2026-pdf-extract.md]
+sources: [raw/articles/26-trades-for-2026-pdf-extract.md, raw/articles/26-trades-for-2026-citrindex.md]
 confidence: medium
 contested: true
 contradictions: []
@@ -21,6 +21,11 @@ This thesis argues that always-on agentic usage, latency sensitivity, privacy, a
 ## Main tension
 - The strongest bear case in the memo is memory: local devices may not have enough RAM or bandwidth to support the model sizes and context lengths users will want.
 - As a result, the likely outcome may be hybrid inference rather than full cloud replacement.
+
+## Citrindex basket constituents
+- The long side in the Citrindex extract includes MediaTek, Samsung Electronics, SiTime, Murata, Lattice, Synaptics, Analog Devices, Qualcomm, TDK, Simplo, and Apple.
+- The short side is consumer-device and PC-assembly heavy: Nintendo, HP, ASRock, Asus, Corsair, Gigabyte, Lenovo, and Dell.
+- That makes the trade much more specific than the PDF text alone: it is not just “edge AI good,” but a relative-value bet on component and timing beneficiaries versus end-device assemblers and peripheral consumer-hardware names.
 
 ## Relevance in this wiki
 - Extends the agentic stack from cloud infrastructure toward endpoint deployment economics.

@@ -179,3 +179,63 @@ publish: true
   - Reclassified broad thematic trade pages from 26 Trades for 2026 as concepts where they function as durable investment frameworks rather than one-off source summaries.
   - Added a larger entity layer for named public companies that serve as explicit expressions of those themes.
   - Total tracked pages increased to 77.
+
+## [2026-05-12] enrich | Added second-wave entities from 26 Trades
+- Wiki pages created:
+  - entities/airbnb.md
+  - entities/centene.md
+  - entities/choice-hotels-international.md
+  - entities/delta-air-lines.md
+  - entities/enel.md
+  - entities/e-on.md
+  - entities/goodyear-tire-rubber.md
+  - entities/iberdrola.md
+  - entities/oscar-health.md
+  - entities/united-airlines.md
+- Wiki pages updated:
+  - summaries/conditional-on-gop-losing.md
+  - summaries/world-cup.md
+  - summaries/long-european-utilities.md
+  - concepts/kicking-the-tires.md
+  - index.md
+- Notes:
+  - Added a second wave of company pages for healthcare-policy, travel, airline, European-utility, and tire/autonomy expressions already present in the 26 Trades corpus.
+  - Total tracked pages increased to 87.
+
+## [2026-05-12] enrich | Integrated Citrindex constituents into 26 Trades thesis pages
+- Raw source created:
+  - raw/articles/26-trades-for-2026-citrindex.md
+- Wiki pages updated:
+  - summaries/26-trades-for-2026.md
+  - concepts/advanced-packaging.md
+  - concepts/ai-materials.md
+  - concepts/inference-on-device.md
+  - concepts/post-traumatic-supply-disorder.md
+  - summaries/conditional-on-gop-losing.md
+  - concepts/earned-wage-access.md
+  - concepts/rate-sensitive-regional-banks.md
+  - concepts/shipbuilding.md
+  - concepts/china-trades.md
+  - summaries/long-european-utilities.md
+- Notes:
+  - Added explicit Citrindex basket constituents where the earlier PDF extract only referenced portal links without exposing holdings.
+  - Updated the concrete thesis pages in place, including trades that now live under concepts/ rather than summaries/.
+
+## [2026-05-12] enrich | Added image-prompted World Cup entities without duplicating Citrindex additions
+- Wiki pages created:
+  - entities/academy-sports-outdoors.md
+  - entities/dicks-sporting-goods.md
+  - entities/adidas.md
+  - entities/sports-gear.md
+  - entities/boot-barn.md
+  - entities/valvoline.md
+  - entities/mengniu-dairy.md
+  - entities/evolv-technologies.md
+- Wiki pages updated:
+  - summaries/world-cup.md
+  - summaries/26-trades-for-2026.md
+  - index.md
+- Notes:
+  - Extracted four external image URLs from the markdown version of 26 Trades for 2026 and reviewed them for additional concrete names.
+  - Most images were cover art, scorecard, or table-of-contents material; the actionable non-Citrindex additions were concentrated in the World Cup sleeve already present in the raw text.
+  - Total tracked pages increased to 95.
