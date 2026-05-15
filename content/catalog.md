@@ -5,8 +5,8 @@ publish: true
 
 # Catalog
 
-Last updated: 2026-05-13
-Total pages: 281
+Last updated: 2026-05-15
+Total pages: 282
 
 ## Entities
 - [[academy-sports-outdoors]] — Academy Sports is presented as a regionally advantaged sporting-goods retailer that could benefit from the World Cup through its strong footprint in the American South, especially Texas, where youth-soccer participation and event spillover may reinforce demand.
@@ -288,6 +288,7 @@ Total pages: 281
 - [[long-european-utilities]] — This trade ties European utilities to gas, LNG, and regional power-market dynamics rather than to a simple defensive-equity narrative.
 - [[long-indonesia-short-vietnam]] — This is a relative-value emerging-markets trade that bets on reversion between two well-known regional stories.
 - [[nerdwallet]] — This section treats NerdWallet as a more diversified way to express the insurance-marketing and lead-gen cycle.
+- [[rating-ai-supply-chain-bottlenecks]] — This interview is a cross-stack AI infrastructure bottleneck map that elevates indium-phosphide lasers, DRAM/HBM, and grid-side power architecture while treating packaging as less singularly constrained than the market narrative suggests.
 - [[saylors-bluff]] — This trade separates the Bitcoin asset from the corporate-finance wrapper built around it.
 - [[synopsys]] — This single-name idea treats Synopsys as a fortress EDA and semiconductor-design platform with strategic pricing power.
 - [[world-cup]] — This trade maps the 2026 World Cup into lodging, logistics, retail, sports equipment, sponsorship spillovers, and venue security across host markets.

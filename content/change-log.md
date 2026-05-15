@@ -513,3 +513,18 @@ publish: true
 - Notes:
   - Resolved live Yahoo Finance quotes for 85 entities and recorded same-day move, absolute change, last price, and Yahoo symbol.
   - Left an unavailable-quote note for 1 entity page where a current Yahoo Finance quote could not be verified: zeekr.md.
+
+## [2026-05-15] ingest | Added Chris Barber / Irrational Analysis AI bottlenecks interview
+- Raw source created:
+  - raw/articles/rating-ai-supply-chain-bottlenecks-irrational-analysis-interview.md
+- Wiki pages created:
+  - summaries/rating-ai-supply-chain-bottlenecks.md
+- Wiki pages updated:
+  - entities/taalas.md
+  - concepts/photonics-cpo-supply-chain.md
+  - concepts/ai-power-supply-chain-inheritance.md
+  - index.md
+- Notes:
+  - Classified the source as a summary rather than a new core concept because it spans multiple existing bottleneck areas instead of introducing one new durable thesis.
+  - Used the interview to deepen the wiki's treatment of indium-phosphide laser scarcity, grid-side power regulation, and Taalas's fixed-weight trade-off.
+  - Total tracked pages increased to 282.

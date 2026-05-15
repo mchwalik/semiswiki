@@ -1,11 +1,13 @@
 ---
 title: Photonics and CPO Supply Chain
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-15'
 type: concept
 tags: [ai-infrastructure, photonics, optics, semiconductors, supply-chain, thesis, public-equities]
-sources: [raw/articles/let-there-be-light.md]
+sources: [raw/articles/let-there-be-light.md, raw/articles/rating-ai-supply-chain-bottlenecks-irrational-analysis-interview.md]
 confidence: medium
+contested: false
+contradictions: []
 ---
 
 ## Summary
@@ -22,6 +24,12 @@ This thesis extends the earlier optics trade into photonic integrated circuits (
 - Upstream winners may include bonding, SOI, MOCVD, InP, and FAU/laser-adjacent suppliers such as [[aixtron]], [[veeco]], [[lumentum]], and [[applied-optoelectronics]].
 - Himax is highlighted as an asymmetric single-stock angle tied to FAU optics and possibly smart glasses.
 
+## Interview update: indium-phosphide bottleneck
+- The new interview argues that the tightest optics constraint is specifically indium-phosphide processing and laser capacity, not a generic shortage of "optics."
+- It frames CPO adoption risk as more of a laser and epitaxy bottleneck than a reliability bottleneck, implying deployment can still proceed if the industry solves InP processing constraints.
+- That update materially strengthens the case for [[lumentum]] and keeps [[aixtron]] relevant as an equipment-layer way to express the same bottleneck.
+- It also reinforces why silicon photonics foundry capacity, including names like Tower, can tighten faster than older transceiver-cycle heuristics would suggest.
+
 ## Second-layer classification
 - Primary/adjacent parent: [[ai-and-agentic-stack]] — Bandwidth and optics bottleneck inside AI scaling.
 
@@ -30,3 +38,4 @@ This thesis extends the earlier optics trade into photonic integrated circuits (
 - [[nvidia]] is the platform driver for CPO adoption timing and optics scale.
 - [[ciena]] represents the existing optics/infrastructure bridge from prior AI-connectivity theses.
 - [[lumentum]], [[applied-optoelectronics]], [[aixtron]], [[veeco]], and [[axcelis-technologies]] extend the optics stack into components and manufacturing tools.
+- [[rating-ai-supply-chain-bottlenecks]] adds a newer cross-stack view that elevates indium-phosphide processing as the most acute optics bottleneck.
