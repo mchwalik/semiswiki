@@ -27,6 +27,7 @@ Total pages: 282
 - [[antofagasta]] — Antofagasta is included among the copper-sensitive names that benefit when the market rediscovers how slow, expensive, and politically constrained new mine supply can be.
 - [[applied-materials]] — Applied Materials appears as a major equipment enabler for advanced packaging and hybrid-bonding workflows, making it a natural entity bridge between backend complexity and the broader AI hardware buildout.
 - [[applied-optoelectronics]] — Applied Optoelectronics appears in the optics memo as part of the current generation of transceiver and connectivity winners exposed to AI-networking demand.
+- [[axt]] — AXT is presented as part of the substrate and materials layer of the indium-phosphide supply chain, making it an upstream way to express the laser bottleneck behind next-generation AI optics.
 - [[applovin]] — AppLovin (APP US) appears in the report as a concrete company expression of post-traumatic supply disorder, tying the name to the cyclical rebound framework built around industries that have already been through a severe supply-demand washout.
 - [[asahi-kasei]] — Asahi Kasei (3407 JP) appears in the report as a concrete company expression of ai materials, tying the name to the substrate, PCB, and specialty-material layer that quietly enables AI hardware scaling.
 - [[atour-lifestyle-holdings]] — Atour Lifestyle Holdings (ATAT US) appears in the report as a concrete company expression of china trades, tying the name to the basket of anti-involution, logistics, property-service, lifestyle, and domestic-tech names tied to a changing China setup.
@@ -60,6 +61,7 @@ Total pages: 282
 - [[choice-hotels-international]] — Choice Hotels is framed as a down-market lodging beneficiary of World Cup overflow demand, with the memo arguing that even secondary hotel brands can benefit when premium inventory is constrained across host markets.
 - [[chugoku-marine-paints]] — Chugoku Marine Paints appears in the basket as a specialized maritime coatings beneficiary, showing how the shipbuilding thesis reaches into less obvious consumables and maintenance layers.
 - [[ciena]] — Ciena is framed as an optical-backbone beneficiary of AI traffic growth, especially east-west and inter-data-center traffic.
+- [[coherent]] — Coherent is one of the most direct public-market expressions of the indium-phosphide laser bottleneck inside AI optics, spanning laser capacity, transceiver demand, and the broader CPO transition.
 - [[circus-se]] — Circus SE (CA1 GR) appears in the report as a concrete company expression of slop bowl economics, tying the name to the restaurant-automation and low-cost food-economics setup.
 - [[cloudflare]] — Cloudflare is described as a leading all-in-one agentic-internet platform, spanning edge compute, security, browser infrastructure, and agentic commerce primitives.
 - [[cofinimmo]] — Cofinimmo appears in the EU levered property basket as a rate-sensitive property name vulnerable to a relatively hawkish ECB backdrop.
@@ -116,6 +118,7 @@ Total pages: 282
 - [[hyphen]] — Hyphen appears in the report as a notable private or non-core-listed company linked to slop bowl economics, making it relevant to the restaurant-automation and low-cost food-economics setup.
 - [[iberdrola]] — Iberdrola is named as a primary European-utility outperformer in the memo’s bullish power-market setup, reflecting its leverage to lower energy stress, better regulatory conditions, and steadier earnings visibility.
 - [[intel]] — Intel (INTC US) appears in the report as a concrete company expression of synopsys, tying the name to the single-name software and EDA thesis around chip complexity, verification, and simulation.
+- [[iqe]] — IQE is referenced as an epitaxy-layer participant in the indium-phosphide manufacturing chain, making it a less obvious but potentially important upstream bottleneck inside AI optics.
 - [[intuitive-machines]] — Intuitive Machines appears in the orbital-logistics sleeve as a higher-beta space-infrastructure and mission-services expression.
 - [[ipsos]] — Ipsos (IPS FP) appears in the report as a concrete company expression of midterm media spend, tying the name to the election-cycle spend thesis spanning agencies, broadcasters, and polling/data vendors.
 - [[isu-petasys]] — ISU Petasys (007660 KS) appears in the report as a concrete company expression of ai materials, tying the name to the substrate, PCB, and specialty-material layer that quietly enables AI hardware scaling.
@@ -201,6 +204,7 @@ Total pages: 282
 - [[sports-gear]] — Sports Gear is highlighted as a Taiwanese cleated-footwear manufacturer with contract exposure to major global brands, making it a less obvious but operationally direct way to express incremental World Cup-related soccer demand.
 - [[sqm]] — SQM (SQM US) appears in the report as a concrete company expression of post-traumatic supply disorder, tying the name to the cyclical rebound framework built around industries that have already been through a severe supply-demand washout.
 - [[sumitomo-bakelite]] — Sumitomo Bakelite (4203 JP) appears in the report as a concrete company expression of ai materials, tying the name to the substrate, PCB, and specialty-material layer that quietly enables AI hardware scaling.
+- [[sumitomo-electric]] — Sumitomo Electric appears in the indium-phosphide chain as a Japanese substrate and laser-manufacturing participant tied to tightening AI optics capacity.
 - [[sweetgreen]] — Sweetgreen appears in the visual as a merchant beneficiary and as a business adjacent to restaurant automation and labor-productivity improvement.
 - [[synchrony]] — Synchrony (SYF US) appears in the report as a concrete company expression of bread and circuses, tying the name to the view that lower-income relief and event spending can unlock selective consumer splurge behavior.
 - [[synopsys-company]] — Synopsys is described as one half of the core EDA duopoly and as a strategic software toll collector on rising chip complexity, custom silicon proliferation, and increasingly simulation-heavy design workflows.
@@ -212,6 +216,7 @@ Total pages: 282
 - [[thyssenkrupp-marine-systems]] — Thyssenkrupp Marine Systems appears as a relatively pure-play shipbuilding and naval-capacity beneficiary within the source’s argument that strategic maritime industrial capacity is becoming scarce and newly valuable again.
 - [[tianqi]] — Tianqi Lithium (9696 HK) appears in the report as a concrete company expression of post-traumatic supply disorder, tying the name to the cyclical rebound framework built around industries that have already been through a severe supply-demand washout.
 - [[toll-brothers]] — Toll Brothers appears in the US refi basket as a higher-end homebuilder beneficiary of improved financing conditions.
+- [[tower-semiconductor]] — Tower Semiconductor is a silicon-photonics foundry beneficiary of the AI optics buildout, especially when indium-phosphide laser scarcity accelerates the shift toward SiPho architectures.
 - [[topoint-technology]] — ToPoint Technology (8021 TT) appears in the report as a concrete company expression of ai materials, tying the name to the substrate, PCB, and specialty-material layer that quietly enables AI hardware scaling.
 - [[ttmi-technologies]] — TTMI Technologies (TTMI US) appears in the report as a concrete company expression of ai materials, tying the name to the substrate, PCB, and specialty-material layer that quietly enables AI hardware scaling.
 - [[tui]] — TUI appears under cyclical/project names in the Europe sleeve, making it a travel-sensitive and financing-sensitive expression of the macro divergence trade.

@@ -528,3 +528,20 @@ publish: true
   - Classified the source as a summary rather than a new core concept because it spans multiple existing bottleneck areas instead of introducing one new durable thesis.
   - Used the interview to deepen the wiki's treatment of indium-phosphide laser scarcity, grid-side power regulation, and Taalas's fixed-weight trade-off.
   - Total tracked pages increased to 282.
+
+## [2026-05-15] enrich | Added missing indium-phosphide entity pages from the AI bottlenecks interview
+- Wiki pages created:
+  - entities/coherent.md
+  - entities/iqe.md
+  - entities/axt.md
+  - entities/sumitomo-electric.md
+  - entities/tower-semiconductor.md
+- Wiki pages updated:
+  - concepts/photonics-cpo-supply-chain.md
+  - summaries/rating-ai-supply-chain-bottlenecks.md
+  - index.md
+  - log.md
+- Notes:
+  - Promoted the interview's named InP chain participants into first-class entity pages instead of leaving them as raw-source mentions.
+  - Extended the optics thesis to cover laser capacity, epitaxy, substrates/materials, and silicon-photonics foundry capacity.
+  - Total tracked pages increased to 287.

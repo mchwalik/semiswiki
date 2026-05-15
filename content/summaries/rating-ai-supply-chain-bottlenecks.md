@@ -22,6 +22,7 @@ This interview with Irrational Analysis is a cross-stack bottleneck map for AI i
 ## Key takeaways
 - Preferred alternative-inference names in the interview are Positron and Cerebras, with MatX viewed as underdisclosed and [[taalas]] treated as a clever but premise-dependent outlier.
 - The most acute optics constraint is framed as indium-phosphide processing and laser capacity, with [[lumentum]] and [[aixtron]] highlighted as practical ways to express that view.
+- The interview also points toward a fuller InP chain spanning [[coherent]], [[iqe]], [[axt]], [[sumitomo-electric]], and [[tower-semiconductor]].
 - Memory remains structurally tight because DRAM/HBM capacity is concentrated in only three vendors and cannot be trivially reallocated from logic fabs.
 - Power semis are framed as the next likely squeeze: not scarce yet, but potentially re-rated as AI load volatility pushes spending toward SiC, GaN, and eventually solid-state-transformer architectures.
 - CPU and logic-fab tightness still matters, but the interview suggests that bottleneck severity has worsened more in optics and memory than in packaging over the last six months.
@@ -33,3 +34,8 @@ This interview with Irrational Analysis is a cross-stack bottleneck map for AI i
 - [[taalas]]
 - [[lumentum]]
 - [[aixtron]]
+- [[coherent]]
+- [[iqe]]
+- [[axt]]
+- [[sumitomo-electric]]
+- [[tower-semiconductor]]
